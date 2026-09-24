@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
-
+using TMPro;
 namespace Starters
 {
     [RequireComponent(typeof(TMP_Text))]

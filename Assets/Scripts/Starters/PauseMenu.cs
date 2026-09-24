@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
-
+using UnityEngine.InputSystem;
 namespace Starters
 {
     public class PauseMenu : MonoBehaviour
