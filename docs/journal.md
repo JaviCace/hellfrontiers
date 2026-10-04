@@ -122,7 +122,9 @@ I used AI tools (Claude) during the project, mainly in week 4. I am responsible 
 * **Learning C#.** The games I am used to programming are written in C++, not C#. I used the AI to help me with C# syntax and conventions and to translate what I already know into the new language.
 * **Finding errors.** It helped me understand and fix compilation errors and Unity errors.
 * **Speeding up repetitive work.** I wrote `MeleeEnemy` and asked for the other enemies based on how it works. I wrote `BaseOrb` and asked for the four orbs that inherit from it. For AngerBoss, it helped me create the triggers and the boss room.
-* **What I did myself.** The game design, all of the art (sprites and the Tiled map), the first version of the enemy, boss and orb systems, and the testing on the device.
+* **Docs** I used AI to for the docs to get them cleaner and better explained.
+* **What I did myself.** The game design, all of the art (sprites and the Tiled map), the first version of the player and enemy, boss and orb systems, and the testing on the device.
+
 
 ## Final reflection
 
