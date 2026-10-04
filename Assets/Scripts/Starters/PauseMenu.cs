@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
-using UnityEngine.InputSystem;
+
 namespace Starters
 {
     public class PauseMenu : MonoBehaviour
@@ -14,9 +14,7 @@ namespace Starters
 
         void Update()
         {
-            var kb = Keyboard.current;
-            if (kb == null || !kb.escapeKey.wasPressedThisFrame) return;
-            guard.SetPaused(!LifecycleGuard.IsPaused);
+            
         }
 
         public void OnResumePressed() => guard.SetPaused(false);
