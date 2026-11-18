@@ -182,5 +182,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Enemies.RangedEnemyProjectile
   rb: {fileID: 2752521367761174365}
   projectileCollider: {fileID: 8725582141157323439}
-  speed: 6
-  lifetime: 5
+  projectileSpeed: 4
+  lifetime: 5.05
+  maxDistanceFromPlayer: 20

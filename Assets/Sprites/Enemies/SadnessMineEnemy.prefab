@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -17.44, y: -1.79, z: 0}
-  m_LocalScale: {x: 2.5213492, y: 2.5213492, z: 2.5213492}
+  m_LocalScale: {x: 5.748424, y: 5.748424, z: 5.748424}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -85,7 +85,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 3259305154832623017, guid: 850704cc8f3d4fa45be4ca4644b33508, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -149,9 +149,9 @@ MonoBehaviour:
   speed: 1
   verticalSpeed: 0
   attackRange: 2
-  damage: 1
+  damage: 2
   collisionDamage: 1
-  startAttackTime: 1
+  startAttackTime: 2
   attackDuration: 0.1
   distanceBtwEnemies: 20
   dead: 0
@@ -224,9 +224,9 @@ BoxCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
-    border: {x: 0.049999997, y: 0.049999997, z: 0.049999997, w: 0.049999997}
+    border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.16, y: 0.16}
+    oldSize: {x: 0.14, y: 0.13}
     newSize: {x: 0.64, y: 0.64}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

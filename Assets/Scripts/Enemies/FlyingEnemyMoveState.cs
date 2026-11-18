@@ -42,12 +42,16 @@ public class FlyingEnemyMoveState : BaseState<BaseEnemy>
             // perseguir jugador mientras no esté en rango
             if (distance > enemy.attackRange)
             {
-                float nx = dx / distance;                    // normalizar x
+                float nx = dx / distance;                    // normalizar x (distance > 0 aquí, no hay división por 0)
                 float ny = dy / distance;                     // normalizar y
+
+                // si verticalSpeed se quedó en 0 en el Inspector, el volador no podría subir ni bajar:
+                // en ese caso usa la misma velocidad que en horizontal
+                float vSpeed = enemy.verticalSpeed > 0f ? enemy.verticalSpeed : enemy.speed;
 
                 enemy.SetVelocity(
                     nx * enemy.speed,                          // velocidad horizontal
-                    ny * enemy.verticalSpeed                   // velocidad vertical
+                    ny * vSpeed                                // velocidad vertical
                 );
 
                 enemy.SetFlipX(nx < 0);                        // voltear sprite

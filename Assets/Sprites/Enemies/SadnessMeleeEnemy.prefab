@@ -148,7 +148,7 @@ MonoBehaviour:
   health: 6
   speed: 1
   verticalSpeed: 0
-  attackRange: 1
+  attackRange: 0.2
   damage: 1
   collisionDamage: 1
   startAttackTime: 1
@@ -158,7 +158,7 @@ MonoBehaviour:
   isAttacking: 0
   applyKnockbackToPlayer: 1
   inmune: 0
-  detectionRange: 30
+  detectionRange: 8
   canChase: 1
   chaseHeightTolerance: 2
   maxVelocityX: 1000

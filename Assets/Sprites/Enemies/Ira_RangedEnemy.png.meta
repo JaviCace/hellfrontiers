@@ -1,0 +1,3733 @@
+fileFormatVersion: 2
+guid: ad6a6029fbee8f547a5f42277a26dfcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -930340299523802186
+    second: Ira_RangedEnemy_0
+  - first:
+      213: 1506869874821625989
+    second: Ira_RangedEnemy_1
+  - first:
+      213: -8837890849073244641
+    second: Ira_RangedEnemy_2
+  - first:
+      213: -3065274451931857906
+    second: Ira_RangedEnemy_3
+  - first:
+      213: 4202176462299551685
+    second: Ira_RangedEnemy_4
+  - first:
+      213: -6771864855952400699
+    second: Ira_RangedEnemy_5
+  - first:
+      213: -8692667898303478861
+    second: Ira_RangedEnemy_6
+  - first:
+      213: 5041686532410605335
+    second: Ira_RangedEnemy_7
+  - first:
+      213: 5115327932650531594
+    second: Ira_RangedEnemy_8
+  - first:
+      213: -5512587539314072643
+    second: Ira_RangedEnemy_9
+  - first:
+      213: 7986362976504783381
+    second: Ira_RangedEnemy_10
+  - first:
+      213: 9074396121148933081
+    second: Ira_RangedEnemy_11
+  - first:
+      213: 7976594307065354444
+    second: Ira_RangedEnemy_12
+  - first:
+      213: 560165562053024086
+    second: Ira_RangedEnemy_13
+  - first:
+      213: 3227394967233680495
+    second: Ira_RangedEnemy_14
+  - first:
+      213: -482412831476038807
+    second: Ira_RangedEnemy_15
+  - first:
+      213: -9092726794934633231
+    second: Ira_RangedEnemy_16
+  - first:
+      213: -2585317091173025066
+    second: Ira_RangedEnemy_17
+  - first:
+      213: 2868618566622995906
+    second: Ira_RangedEnemy_18
+  - first:
+      213: -6132886605199397508
+    second: Ira_RangedEnemy_19
+  - first:
+      213: -2206425539084010396
+    second: Ira_RangedEnemy_20
+  - first:
+      213: -4736032096140016828
+    second: Ira_RangedEnemy_21
+  - first:
+      213: 2559717776798421305
+    second: Ira_RangedEnemy_22
+  - first:
+      213: 2895110686907439779
+    second: Ira_RangedEnemy_23
+  - first:
+      213: -8942484878852008137
+    second: Ira_RangedEnemy_24
+  - first:
+      213: -2106309633087275555
+    second: Ira_RangedEnemy_25
+  - first:
+      213: -8901661088122735306
+    second: Ira_RangedEnemy_26
+  - first:
+      213: -3532109486529513440
+    second: Ira_RangedEnemy_27
+  - first:
+      213: 4997800899293279456
+    second: Ira_RangedEnemy_28
+  - first:
+      213: 7419805816901100903
+    second: Ira_RangedEnemy_29
+  - first:
+      213: 1826572211440530044
+    second: Ira_RangedEnemy_30
+  - first:
+      213: 3351096800716814460
+    second: Ira_RangedEnemy_31
+  - first:
+      213: -2272738543068617259
+    second: Ira_RangedEnemy_32
+  - first:
+      213: -7993262688098859320
+    second: Ira_RangedEnemy_33
+  - first:
+      213: -7288448114047658609
+    second: Ira_RangedEnemy_34
+  - first:
+      213: -1504497489227197722
+    second: Ira_RangedEnemy_35
+  - first:
+      213: -2044111552010202780
+    second: Ira_RangedEnemy_36
+  - first:
+      213: -4367376614075786131
+    second: Ira_RangedEnemy_37
+  - first:
+      213: 2556869226443004724
+    second: Ira_RangedEnemy_38
+  - first:
+      213: 4693714771401256142
+    second: Ira_RangedEnemy_39
+  - first:
+      213: 7251117071406025364
+    second: Ira_RangedEnemy_40
+  - first:
+      213: -3510720329428000011
+    second: Ira_RangedEnemy_41
+  - first:
+      213: -4887218773825155702
+    second: Ira_RangedEnemy_42
+  - first:
+      213: -6878462742902279676
+    second: Ira_RangedEnemy_43
+  - first:
+      213: 2111506349805966452
+    second: Ira_RangedEnemy_44
+  - first:
+      213: 6749814128702449308
+    second: Ira_RangedEnemy_45
+  - first:
+      213: -8929542706532185434
+    second: Ira_RangedEnemy_46
+  - first:
+      213: -760353748532905968
+    second: Ira_RangedEnemy_47
+  - first:
+      213: 4069228845600646220
+    second: Ira_RangedEnemy_48
+  - first:
+      213: 3637379218847487657
+    second: Ira_RangedEnemy_49
+  - first:
+      213: -8741288051807859592
+    second: Ira_RangedEnemy_50
+  - first:
+      213: -6021296797189373833
+    second: Ira_RangedEnemy_51
+  - first:
+      213: -7989648404230877758
+    second: Ira_RangedEnemy_52
+  - first:
+      213: -7394596448310349082
+    second: Ira_RangedEnemy_53
+  - first:
+      213: -8003212641432752767
+    second: Ira_RangedEnemy_54
+  - first:
+      213: -6640873967242780808
+    second: Ira_RangedEnemy_55
+  - first:
+      213: -7248398381490412530
+    second: Ira_RangedEnemy_56
+  - first:
+      213: -2884249627059357888
+    second: Ira_RangedEnemy_57
+  - first:
+      213: -4391651453505980853
+    second: Ira_RangedEnemy_58
+  - first:
+      213: 8127079248490803634
+    second: Ira_RangedEnemy_59
+  - first:
+      213: -7255937880773570462
+    second: Ira_RangedEnemy_60
+  - first:
+      213: 3369393154364834195
+    second: Ira_RangedEnemy_61
+  - first:
+      213: -3138569053166640700
+    second: Ira_RangedEnemy_62
+  - first:
+      213: -6438762863607450659
+    second: Ira_RangedEnemy_63
+  - first:
+      213: -2829756188726661549
+    second: Ira_RangedEnemy_64
+  - first:
+      213: 1808799502649728451
+    second: Ira_RangedEnemy_65
+  - first:
+      213: 3511466942402645696
+    second: Ira_RangedEnemy_66
+  - first:
+      213: 1064148568669917753
+    second: Ira_RangedEnemy_67
+  - first:
+      213: -5247140246116169644
+    second: Ira_RangedEnemy_68
+  - first:
+      213: -912401906101459849
+    second: Ira_RangedEnemy_69
+  - first:
+      213: -3391027253417144856
+    second: Ira_RangedEnemy_70
+  - first:
+      213: 3830626654027445553
+    second: Ira_RangedEnemy_71
+  - first:
+      213: 8267383910547002563
+    second: Ira_RangedEnemy_72
+  - first:
+      213: -820724204085402583
+    second: Ira_RangedEnemy_73
+  - first:
+      213: 2941688770698235985
+    second: Ira_RangedEnemy_74
+  - first:
+      213: 7377219789434206302
+    second: Ira_RangedEnemy_75
+  - first:
+      213: 1861021502553142289
+    second: Ira_RangedEnemy_76
+  - first:
+      213: -2101345626133194309
+    second: Ira_RangedEnemy_77
+  - first:
+      213: 8579131121500640193
+    second: Ira_RangedEnemy_78
+  - first:
+      213: -2516139688469115058
+    second: Ira_RangedEnemy_79
+  - first:
+      213: -1040001641075906961
+    second: Ira_RangedEnemy_80
+  - first:
+      213: 4106040893174164299
+    second: Ira_RangedEnemy_81
+  - first:
+      213: 9033842268947133186
+    second: Ira_RangedEnemy_82
+  - first:
+      213: 5679253869039900272
+    second: Ira_RangedEnemy_83
+  - first:
+      213: -4868980351007320359
+    second: Ira_RangedEnemy_84
+  - first:
+      213: -6079636499285830993
+    second: Ira_RangedEnemy_85
+  - first:
+      213: 3685146862973956699
+    second: Ira_RangedEnemy_86
+  - first:
+      213: -7170761404148973747
+    second: Ira_RangedEnemy_87
+  - first:
+      213: -1055067930791257954
+    second: Ira_RangedEnemy_88
+  - first:
+      213: 5662212212133190453
+    second: Ira_RangedEnemy_89
+  - first:
+      213: 8102187022529510063
+    second: Ira_RangedEnemy_90
+  - first:
+      213: -4674249880265071496
+    second: Ira_RangedEnemy_91
+  - first:
+      213: 7172070452503371907
+    second: Ira_RangedEnemy_92
+  - first:
+      213: -6097763487597479084
+    second: Ira_RangedEnemy_93
+  - first:
+      213: 3318734619616851460
+    second: Ira_RangedEnemy_94
+  - first:
+      213: 283291971011732783
+    second: Ira_RangedEnemy_95
+  - first:
+      213: -8877259076175963049
+    second: Ira_RangedEnemy_96
+  - first:
+      213: 8431438813900788601
+    second: Ira_RangedEnemy_97
+  - first:
+      213: -7865347685494906752
+    second: Ira_RangedEnemy_98
+  - first:
+      213: -1716264437057869726
+    second: Ira_RangedEnemy_99
+  - first:
+      213: -7085685760171933583
+    second: Ira_RangedEnemy_100
+  - first:
+      213: -5438529299994802503
+    second: Ira_RangedEnemy_101
+  - first:
+      213: -2427230642306793383
+    second: Ira_RangedEnemy_102
+  - first:
+      213: 3645183584806658360
+    second: Ira_RangedEnemy_103
+  - first:
+      213: 1870251666405570741
+    second: Ira_RangedEnemy_104
+  - first:
+      213: 8622625937541275553
+    second: Ira_RangedEnemy_105
+  - first:
+      213: 4898987351284043020
+    second: Ira_RangedEnemy_106
+  - first:
+      213: 3795439030801454014
+    second: Ira_RangedEnemy_107
+  - first:
+      213: 6866896666151904543
+    second: Ira_RangedEnemy_108
+  - first:
+      213: 6097552268241829907
+    second: Ira_RangedEnemy_109
+  - first:
+      213: 2579821027421714580
+    second: Ira_RangedEnemy_110
+  - first:
+      213: 2658681356933184854
+    second: Ira_RangedEnemy_111
+  - first:
+      213: -5784868562397489512
+    second: Ira_RangedEnemy_112
+  - first:
+      213: 956977773558515752
+    second: Ira_RangedEnemy_113
+  - first:
+      213: -7912066098363337291
+    second: Ira_RangedEnemy_114
+  - first:
+      213: -1340091391066594688
+    second: Ira_RangedEnemy_115
+  - first:
+      213: -5068355145725682354
+    second: Ira_RangedEnemy_116
+  - first:
+      213: 8246263144840835923
+    second: Ira_RangedEnemy_117
+  - first:
+      213: 8843410134241752395
+    second: Ira_RangedEnemy_118
+  - first:
+      213: 8543836020480484226
+    second: Ira_RangedEnemy_119
+  - first:
+      213: 744080310297359826
+    second: Ira_RangedEnemy_120
+  - first:
+      213: 1464294731226649749
+    second: Ira_RangedEnemy_121
+  - first:
+      213: 2698582407979691765
+    second: Ira_RangedEnemy_122
+  - first:
+      213: 3609516081448319781
+    second: Ira_RangedEnemy_123
+  - first:
+      213: -6987016358018408858
+    second: Ira_RangedEnemy_124
+  - first:
+      213: 5436823884282605936
+    second: Ira_RangedEnemy_125
+  - first:
+      213: 3289454918213799448
+    second: Ira_RangedEnemy_126
+  - first:
+      213: -4778526680614728238
+    second: Ira_RangedEnemy_127
+  - first:
+      213: 5953575606236633697
+    second: Ira_RangedEnemy_128
+  - first:
+      213: -5221681759100939341
+    second: Ira_RangedEnemy_129
+  - first:
+      213: -4882889391392020877
+    second: Ira_RangedEnemy_130
+  - first:
+      213: 4082626783395847348
+    second: Ira_RangedEnemy_131
+  - first:
+      213: -6648782943345343771
+    second: Ira_RangedEnemy_132
+  - first:
+      213: 571586306065319017
+    second: Ira_RangedEnemy_133
+  - first:
+      213: 1833005441036882541
+    second: Ira_RangedEnemy_134
+  - first:
+      213: 769372567752448767
+    second: Ira_RangedEnemy_135
+  - first:
+      213: -455501057732504755
+    second: Ira_RangedEnemy_136
+  - first:
+      213: 4439291179200177764
+    second: Ira_RangedEnemy_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 806
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb37ae3d64c613f0800000000000000
+      internalID: -930340299523802186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 780
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588fa7bda2a79e410800000000000000
+      internalID: 1506869874821625989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 807
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1650511911895580800000000000000
+      internalID: -8837890849073244641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 781
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c75816025f575d0800000000000000
+      internalID: -3065274451931857906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 810
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c75fd67a31215a30800000000000000
+      internalID: 4202176462299551685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 783
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce510adac08502a0800000000000000
+      internalID: -6771864855952400699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 812
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b30e2b2a907d5780800000000000000
+      internalID: -8692667898303478861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 784
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f7431703ba7f540800000000000000
+      internalID: 5041686532410605335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 813
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ba44f07ab4df640800000000000000
+      internalID: 5115327932650531594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 784
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a0f507da5f73b0800000000000000
+      internalID: -5512587539314072643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 813
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51226e540d245de60800000000000000
+      internalID: 7986362976504783381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 783
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3c348a13bbeed70800000000000000
+      internalID: 9074396121148933081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 811
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8980ea24e82be60800000000000000
+      internalID: 7976594307065354444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 781
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659d39d5c9b16c700800000000000000
+      internalID: 560165562053024086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 809
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64d8db8f920acc20800000000000000
+      internalID: 3227394967233680495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 780
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963c7c0f5102e49f0800000000000000
+      internalID: -482412831476038807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 652
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcbe34c72520d180800000000000000
+      internalID: -9092726794934633231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 651
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dab2ec9dcb1f1cd0800000000000000
+      internalID: -2585317091173025066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 650
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c567a343616fc720800000000000000
+      internalID: 2868618566622995906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 648
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7da651402c93eaa0800000000000000
+      internalID: -6132886605199397508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 649
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c3c8f89a33161e0800000000000000
+      internalID: -2206425539084010396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 650
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443c9b0b6eb364eb0800000000000000
+      internalID: -4736032096140016828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 652
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931925b81c1f58320800000000000000
+      internalID: 2559717776798421305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 653
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa1e8ea4df7d2820800000000000000
+      internalID: 2895110686907439779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 550
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73759bac169e5e380800000000000000
+      internalID: -8942484878852008137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 524
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd79d46c82e4c2e0800000000000000
+      internalID: -2106309633087275555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 551
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635f6834762f67480800000000000000
+      internalID: -8901661088122735306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 525
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028fe9bc22d6bfec0800000000000000
+      internalID: -3532109486529513440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4f08c3071cb5540800000000000000
+      internalID: 4997800899293279456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 526
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76564c2241278f660800000000000000
+      internalID: 7419805816901100903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 553
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72338bafb9495910800000000000000
+      internalID: 1826572211440530044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 527
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c787cae09cc718e20800000000000000
+      internalID: 3351096800716814460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_32
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 554
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d56e09265c9570e0800000000000000
+      internalID: -2272738543068617259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_33
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 528
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6cb7f6fe9321190800000000000000
+      internalID: -7993262688098859320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_34
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 555
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d25e5e0b3ada90800000000000000
+      internalID: -7288448114047658609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 529
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e255253183fe1be0800000000000000
+      internalID: -1504497489227197722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_36
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 556
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461d825af5bd1a3e0800000000000000
+      internalID: -2044111552010202780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 530
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c1aaddb16f363c0800000000000000
+      internalID: -4367376614075786131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_38
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 557
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b534bb303db7320800000000000000
+      internalID: 2556869226443004724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_39
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 530
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc206a57bc632140800000000000000
+      internalID: 4693714771401256142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_40
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 556
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a4de1fe8421a460800000000000000
+      internalID: 7251117071406025364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_41
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 529
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2a3b2067a674fc0800000000000000
+      internalID: -3510720329428000011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_42
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 555
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d08863b6c1d2cb0800000000000000
+      internalID: -4887218773825155702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_43
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 528
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402fc88349aca80a0800000000000000
+      internalID: -6878462742902279676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_44
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 553
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4749a2186d39d4d10800000000000000
+      internalID: 2111506349805966452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_45
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 527
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96e83120382cad50800000000000000
+      internalID: 6749814128702449308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_46
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 526
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa087a1834e31480800000000000000
+      internalID: -8929542706532185434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_47
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0183f035b4ea275f0800000000000000
+      internalID: -760353748532905968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_48
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 551
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44accb431ec87830800000000000000
+      internalID: 4069228845600646220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_49
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 525
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6daccb0219a7230800000000000000
+      internalID: 3637379218847487657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_50
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 422
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c40a884d4b0b680800000000000000
+      internalID: -8741288051807859592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 396
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7708454177e007ca0800000000000000
+      internalID: -6021296797189373833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_52
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd4d897b111f1190800000000000000
+      internalID: -7989648404230877758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 397
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b81165bd116990800000000000000
+      internalID: -7394596448310349082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_54
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d2c756180eee090800000000000000
+      internalID: -8003212641432752767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 398
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fda58cf40e6d3a0800000000000000
+      internalID: -6640873967242780808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_56
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e046fb06314886b90800000000000000
+      internalID: -7248398381490412530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 399
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047f29fde3619f7d0800000000000000
+      internalID: -2884249627059357888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_58
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46b2706548bd03c0800000000000000
+      internalID: -4391651453505980853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 400
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b13eb3748f29c070800000000000000
+      internalID: 8127079248490803634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_60
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 427
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260d038e0fabd4b90800000000000000
+      internalID: -7255937880773570462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_61
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 401
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3918c8ad83d72ce20800000000000000
+      internalID: 3369393154364834195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_62
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 428
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1e7f233109174d0800000000000000
+      internalID: -3138569053166640700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_63
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 402
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd373b12a4be4a6a0800000000000000
+      internalID: -6438762863607450659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_64
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 429
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eebf13dbfaab8d0800000000000000
+      internalID: -2829756188726661549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_65
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 402
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd175170952a1910800000000000000
+      internalID: 1808799502649728451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_66
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 428
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cecf6e549c3bb030800000000000000
+      internalID: 3511466942402645696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_67
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 401
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9329fcf2c7d94ce00800000000000000
+      internalID: 1064148568669917753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_68
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 427
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45807972fb96e27b0800000000000000
+      internalID: -5247140246116169644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_69
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 400
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774ee6eec4f7653f0800000000000000
+      internalID: -912401906101459849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_70
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed0760fda6a0f0d0800000000000000
+      internalID: -3391027253417144856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_71
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 399
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f27475ae192530800000000000000
+      internalID: 3830626654027445553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_72
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41fe93dd5abb270800000000000000
+      internalID: 8267383910547002563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_73
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 398
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924acec4fa33c94f0800000000000000
+      internalID: -820724204085402583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_74
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1505939e95af2d820800000000000000
+      internalID: 2941688770698235985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_75
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 397
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583533ff46216660800000000000000
+      internalID: 7377219789434206302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 268
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1143b0b423da3d910800000000000000
+      internalID: 1861021502553142289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 269
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb99204594586d2e0800000000000000
+      internalID: -2101345626133194309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_78
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 270
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c35b820d423f0770800000000000000
+      internalID: 8579131121500640193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 271
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f498fc840e41dd0800000000000000
+      internalID: -2516139688469115058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_80
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 273
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e8d1840c2191f0800000000000000
+      internalID: -1040001641075906961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_81
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 274
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bafd600769bf830800000000000000
+      internalID: 4106040893174164299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_82
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203b0852ea7ae5d70800000000000000
+      internalID: 9033842268947133186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_83
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 275
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076d26dcd43c0de40800000000000000
+      internalID: 5679253869039900272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_84
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 308
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d61adfea28ed6cb0800000000000000
+      internalID: -4868980351007320359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_85
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 274
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa29190b0dac0aba0800000000000000
+      internalID: -6079636499285830993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_86
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 274
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5235b01c85442330800000000000000
+      internalID: 3685146862973956699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_87
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 273
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f7e98ce765c7c90800000000000000
+      internalID: -7170761404148973747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_88
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 272
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98d7439e45ab51f0800000000000000
+      internalID: -1055067930791257954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_89
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 271
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bd31bd108349e40800000000000000
+      internalID: 5662212212133190453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_90
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 270
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faab6a57b20c07070800000000000000
+      internalID: 8102187022529510063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_91
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 269
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8746367cf7ab12fb0800000000000000
+      internalID: -4674249880265071496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_92
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 267
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380e989c310588360800000000000000
+      internalID: 7172070452503371907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_93
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 266
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bb7655a64606ba0800000000000000
+      internalID: -6097763487597479084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_94
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 267
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406bd0a9d838e0e20800000000000000
+      internalID: 3318734619616851460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_95
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 294
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25efd3fb847ee300800000000000000
+      internalID: 283291971011732783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_96
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 293
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c5b6967e3adc480800000000000000
+      internalID: -8877259076175963049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_97
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9735ff7fdec720570800000000000000
+      internalID: 8431438813900788601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080a223d3fba8d290800000000000000
+      internalID: -7865347685494906752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_99
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 169
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a780769a9e28e0800000000000000
+      internalID: -1716264437057869726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_100
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 144
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17088eab7569aad90800000000000000
+      internalID: -7085685760171933583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_101
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 169
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6814d8a667684b0800000000000000
+      internalID: -5438529299994802503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_102
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 144
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9504c51479eb05ed0800000000000000
+      internalID: -2427230642306793383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_103
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8316c79482b469230800000000000000
+      internalID: 3645183584806658360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_104
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 143
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8bfa84bf774f910800000000000000
+      internalID: 1870251666405570741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_105
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af97360b98b9a770800000000000000
+      internalID: 8622625937541275553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_106
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 140
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dca604a03bcf340800000000000000
+      internalID: 4898987351284043020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3d29d70bb1ca430800000000000000
+      internalID: 3795439030801454014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156c4fa22e1c4f50800000000000000
+      internalID: 6866896666151904543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3108ee35b7bde9450800000000000000
+      internalID: 6097552268241829907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_110
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 41
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498fd835e8d5dc320800000000000000
+      internalID: 2579821027421714580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_111
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 16
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65db4fa9b9885e420800000000000000
+      internalID: 2658681356933184854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_112
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89619f921b408bfa0800000000000000
+      internalID: -5784868562397489512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_113
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 16
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82846eaf63ed74d00800000000000000
+      internalID: 956977773558515752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_114
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b574afadc1b23290800000000000000
+      internalID: -7912066098363337291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 18
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082aaecdaf9076de0800000000000000
+      internalID: -1340091391066594688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_116
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 44
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d5f7729d599a9b0800000000000000
+      internalID: -5068355145725682354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_117
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 25
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35332a0c3ac907270800000000000000
+      internalID: 8246263144840835923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_118
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 59
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45b196a9aa1aba70800000000000000
+      internalID: 8843410134241752395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_119
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 23
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2832debe79dc19670800000000000000
+      internalID: 8543836020480484226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_120
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 45
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f2a39911835a00800000000000000
+      internalID: 744080310297359826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_121
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5949d35cc48325410800000000000000
+      internalID: 1464294731226649749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_122
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 48
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe6fb0076a437520800000000000000
+      internalID: 2698582407979691765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_123
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 18
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b79c580c3971230800000000000000
+      internalID: 3609516081448319781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_124
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e187424a1290f90800000000000000
+      internalID: -6987016358018408858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_125
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0713609648a737b40800000000000000
+      internalID: 5436823884282605936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_126
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e8bc0e1dd76ad20800000000000000
+      internalID: 3289454918213799448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_127
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd8b3c3d434fadb0800000000000000
+      internalID: -4778526680614728238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_128
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 47
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a5a2178795f9250800000000000000
+      internalID: 5953575606236633697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_129
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 20
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3d6a21b1cd887b0800000000000000
+      internalID: -5221681759100939341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_130
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3762e8c18fd7c3cb0800000000000000
+      internalID: -4882889391392020877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_131
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 15
+        width: 217
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1ec6cd6768a830800000000000000
+      internalID: 4082626783395847348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_132
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e28939c327cab3a0800000000000000
+      internalID: -6648782943345343771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_133
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964408b87beaee700800000000000000
+      internalID: 571586306065319017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_134
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 18
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d629c58acb4207910800000000000000
+      internalID: 1833005441036882541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_135
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 16
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa90d8264c5daa00800000000000000
+      internalID: 769372567752448767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_136
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 40
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d431a0b833cbda9f0800000000000000
+      internalID: -455501057732504755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ira_RangedEnemy_137
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 19
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46660ce9ec78b9d30800000000000000
+      internalID: 4439291179200177764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ira_RangedEnemy_0: -930340299523802186
+      Ira_RangedEnemy_1: 1506869874821625989
+      Ira_RangedEnemy_10: 7986362976504783381
+      Ira_RangedEnemy_100: -7085685760171933583
+      Ira_RangedEnemy_101: -5438529299994802503
+      Ira_RangedEnemy_102: -2427230642306793383
+      Ira_RangedEnemy_103: 3645183584806658360
+      Ira_RangedEnemy_104: 1870251666405570741
+      Ira_RangedEnemy_105: 8622625937541275553
+      Ira_RangedEnemy_106: 4898987351284043020
+      Ira_RangedEnemy_107: 3795439030801454014
+      Ira_RangedEnemy_108: 6866896666151904543
+      Ira_RangedEnemy_109: 6097552268241829907
+      Ira_RangedEnemy_11: 9074396121148933081
+      Ira_RangedEnemy_110: 2579821027421714580
+      Ira_RangedEnemy_111: 2658681356933184854
+      Ira_RangedEnemy_112: -5784868562397489512
+      Ira_RangedEnemy_113: 956977773558515752
+      Ira_RangedEnemy_114: -7912066098363337291
+      Ira_RangedEnemy_115: -1340091391066594688
+      Ira_RangedEnemy_116: -5068355145725682354
+      Ira_RangedEnemy_117: 8246263144840835923
+      Ira_RangedEnemy_118: 8843410134241752395
+      Ira_RangedEnemy_119: 8543836020480484226
+      Ira_RangedEnemy_12: 7976594307065354444
+      Ira_RangedEnemy_120: 744080310297359826
+      Ira_RangedEnemy_121: 1464294731226649749
+      Ira_RangedEnemy_122: 2698582407979691765
+      Ira_RangedEnemy_123: 3609516081448319781
+      Ira_RangedEnemy_124: -6987016358018408858
+      Ira_RangedEnemy_125: 5436823884282605936
+      Ira_RangedEnemy_126: 3289454918213799448
+      Ira_RangedEnemy_127: -4778526680614728238
+      Ira_RangedEnemy_128: 5953575606236633697
+      Ira_RangedEnemy_129: -5221681759100939341
+      Ira_RangedEnemy_13: 560165562053024086
+      Ira_RangedEnemy_130: -4882889391392020877
+      Ira_RangedEnemy_131: 4082626783395847348
+      Ira_RangedEnemy_132: -6648782943345343771
+      Ira_RangedEnemy_133: 571586306065319017
+      Ira_RangedEnemy_134: 1833005441036882541
+      Ira_RangedEnemy_135: 769372567752448767
+      Ira_RangedEnemy_136: -455501057732504755
+      Ira_RangedEnemy_137: 4439291179200177764
+      Ira_RangedEnemy_14: 3227394967233680495
+      Ira_RangedEnemy_15: -482412831476038807
+      Ira_RangedEnemy_16: -9092726794934633231
+      Ira_RangedEnemy_17: -2585317091173025066
+      Ira_RangedEnemy_18: 2868618566622995906
+      Ira_RangedEnemy_19: -6132886605199397508
+      Ira_RangedEnemy_2: -8837890849073244641
+      Ira_RangedEnemy_20: -2206425539084010396
+      Ira_RangedEnemy_21: -4736032096140016828
+      Ira_RangedEnemy_22: 2559717776798421305
+      Ira_RangedEnemy_23: 2895110686907439779
+      Ira_RangedEnemy_24: -8942484878852008137
+      Ira_RangedEnemy_25: -2106309633087275555
+      Ira_RangedEnemy_26: -8901661088122735306
+      Ira_RangedEnemy_27: -3532109486529513440
+      Ira_RangedEnemy_28: 4997800899293279456
+      Ira_RangedEnemy_29: 7419805816901100903
+      Ira_RangedEnemy_3: -3065274451931857906
+      Ira_RangedEnemy_30: 1826572211440530044
+      Ira_RangedEnemy_31: 3351096800716814460
+      Ira_RangedEnemy_32: -2272738543068617259
+      Ira_RangedEnemy_33: -7993262688098859320
+      Ira_RangedEnemy_34: -7288448114047658609
+      Ira_RangedEnemy_35: -1504497489227197722
+      Ira_RangedEnemy_36: -2044111552010202780
+      Ira_RangedEnemy_37: -4367376614075786131
+      Ira_RangedEnemy_38: 2556869226443004724
+      Ira_RangedEnemy_39: 4693714771401256142
+      Ira_RangedEnemy_4: 4202176462299551685
+      Ira_RangedEnemy_40: 7251117071406025364
+      Ira_RangedEnemy_41: -3510720329428000011
+      Ira_RangedEnemy_42: -4887218773825155702
+      Ira_RangedEnemy_43: -6878462742902279676
+      Ira_RangedEnemy_44: 2111506349805966452
+      Ira_RangedEnemy_45: 6749814128702449308
+      Ira_RangedEnemy_46: -8929542706532185434
+      Ira_RangedEnemy_47: -760353748532905968
+      Ira_RangedEnemy_48: 4069228845600646220
+      Ira_RangedEnemy_49: 3637379218847487657
+      Ira_RangedEnemy_5: -6771864855952400699
+      Ira_RangedEnemy_50: -8741288051807859592
+      Ira_RangedEnemy_51: -6021296797189373833
+      Ira_RangedEnemy_52: -7989648404230877758
+      Ira_RangedEnemy_53: -7394596448310349082
+      Ira_RangedEnemy_54: -8003212641432752767
+      Ira_RangedEnemy_55: -6640873967242780808
+      Ira_RangedEnemy_56: -7248398381490412530
+      Ira_RangedEnemy_57: -2884249627059357888
+      Ira_RangedEnemy_58: -4391651453505980853
+      Ira_RangedEnemy_59: 8127079248490803634
+      Ira_RangedEnemy_6: -8692667898303478861
+      Ira_RangedEnemy_60: -7255937880773570462
+      Ira_RangedEnemy_61: 3369393154364834195
+      Ira_RangedEnemy_62: -3138569053166640700
+      Ira_RangedEnemy_63: -6438762863607450659
+      Ira_RangedEnemy_64: -2829756188726661549
+      Ira_RangedEnemy_65: 1808799502649728451
+      Ira_RangedEnemy_66: 3511466942402645696
+      Ira_RangedEnemy_67: 1064148568669917753
+      Ira_RangedEnemy_68: -5247140246116169644
+      Ira_RangedEnemy_69: -912401906101459849
+      Ira_RangedEnemy_7: 5041686532410605335
+      Ira_RangedEnemy_70: -3391027253417144856
+      Ira_RangedEnemy_71: 3830626654027445553
+      Ira_RangedEnemy_72: 8267383910547002563
+      Ira_RangedEnemy_73: -820724204085402583
+      Ira_RangedEnemy_74: 2941688770698235985
+      Ira_RangedEnemy_75: 7377219789434206302
+      Ira_RangedEnemy_76: 1861021502553142289
+      Ira_RangedEnemy_77: -2101345626133194309
+      Ira_RangedEnemy_78: 8579131121500640193
+      Ira_RangedEnemy_79: -2516139688469115058
+      Ira_RangedEnemy_8: 5115327932650531594
+      Ira_RangedEnemy_80: -1040001641075906961
+      Ira_RangedEnemy_81: 4106040893174164299
+      Ira_RangedEnemy_82: 9033842268947133186
+      Ira_RangedEnemy_83: 5679253869039900272
+      Ira_RangedEnemy_84: -4868980351007320359
+      Ira_RangedEnemy_85: -6079636499285830993
+      Ira_RangedEnemy_86: 3685146862973956699
+      Ira_RangedEnemy_87: -7170761404148973747
+      Ira_RangedEnemy_88: -1055067930791257954
+      Ira_RangedEnemy_89: 5662212212133190453
+      Ira_RangedEnemy_9: -5512587539314072643
+      Ira_RangedEnemy_90: 8102187022529510063
+      Ira_RangedEnemy_91: -4674249880265071496
+      Ira_RangedEnemy_92: 7172070452503371907
+      Ira_RangedEnemy_93: -6097763487597479084
+      Ira_RangedEnemy_94: 3318734619616851460
+      Ira_RangedEnemy_95: 283291971011732783
+      Ira_RangedEnemy_96: -8877259076175963049
+      Ira_RangedEnemy_97: 8431438813900788601
+      Ira_RangedEnemy_98: -7865347685494906752
+      Ira_RangedEnemy_99: -1716264437057869726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

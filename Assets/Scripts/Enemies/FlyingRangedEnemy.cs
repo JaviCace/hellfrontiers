@@ -23,7 +23,7 @@ public class FlyingRangedEnemy : BaseEnemy
 
         // stats
         attackDuration = 1.5f;                                // duración ataque
-        attackRange = 20f;                                    // rango ataque
+        attackRange = 2f;                                    // rango ataque
         damage = 1f;                                          // daño
 
         // estados

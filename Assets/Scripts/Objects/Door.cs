@@ -18,6 +18,11 @@ public class Door : MonoBehaviour, IOpenable
 
     public bool abrir = false;                 // estado de apertura
 
+    [Header("Mensajes")]
+    [Tooltip("Tamaño del texto de los mensajes sobre la puerta (más pequeño = menos letra)")]
+    [SerializeField] private float messageCharacterSize = 0.05f;
+    [SerializeField] private float messageHeight = 1f;
+
     protected virtual void Awake()
     {
         if (rb != null) rb.gravityScale = 0f;  // sin gravedad
@@ -53,11 +58,11 @@ public class Door : MonoBehaviour, IOpenable
     public void ShowMessage(string text)
     {
         var go = new GameObject("DoorMessage");
-        go.transform.position = transform.position + new Vector3(0f, 1f, 0f);
+        go.transform.position = transform.position + new Vector3(0f, messageHeight, 0f);
         var tm = go.AddComponent<TextMesh>();
         tm.text = text;
         tm.fontSize = 48;
-        tm.characterSize = 0.2f;
+        tm.characterSize = messageCharacterSize;
         tm.anchor = TextAnchor.MiddleCenter;
         tm.alignment = TextAlignment.Center;
         tm.color = Color.red;

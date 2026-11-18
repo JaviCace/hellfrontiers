@@ -13,8 +13,11 @@ public class RangedEnemyProjectile : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Collider2D projectileCollider;   // trigger, para detectar al jugador
 
-    public float speed = 250f;                                 // velocidad proyectil
+    [Tooltip("Velocidad en unidades de mundo por segundo (los 250 de Phaser eran píxeles)")]
+    public float projectileSpeed = 4f;
     public float lifetime = 5f;                                 // vida máxima del proyectil (segundos)
+    [Tooltip("Se destruye si se aleja tanto del jugador (ya no se destruye al salir de la cámara)")]
+    public float maxDistanceFromPlayer = 40f;
 
     private BaseEnemy enemy;                                    // enemigo que dispara
     private Transform target;                                   // objetivo (jugador)
@@ -34,7 +37,7 @@ public class RangedEnemyProjectile : MonoBehaviour
         Vector2 dir = (Vector2)(target.position - transform.position);
         dir.Normalize();
 
-        rb.linearVelocity = dir * speed;
+        rb.linearVelocity = dir * projectileSpeed;
 
         // rotación según movimiento
         float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg + 90f;
@@ -53,17 +56,11 @@ public class RangedEnemyProjectile : MonoBehaviour
             return;
         }
 
-        // destruir si sale de la cámara
-        Camera cam = Camera.main;
-        if (cam != null)
+        // destruir si se aleja demasiado del jugador. Antes se destruía al salir de la cámara, pero con
+        // rango de ataque 20 el enemigo dispara desde fuera de pantalla y el proyectil moría al nacer
+        if (Vector2.Distance(transform.position, target.position) > maxDistanceFromPlayer)
         {
-            Vector3 viewportPos = cam.WorldToViewportPoint(transform.position);
-            float margin = 0.1f; // ~ equivalente al margen de 100px del original, ajusta a tu gusto
-            if (viewportPos.x < -margin || viewportPos.x > 1f + margin ||
-                viewportPos.y < -margin || viewportPos.y > 1f + margin)
-            {
-                Destroy(gameObject);
-            }
+            Destroy(gameObject);
         }
     }
 

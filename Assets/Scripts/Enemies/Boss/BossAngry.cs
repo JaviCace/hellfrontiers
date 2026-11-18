@@ -7,7 +7,7 @@ namespace Enemies
     /// <summary>
     /// Jefe de la emoción Ira.
     /// </summary>
-    public class BossAngry : BaseBoss
+    public class BossAngry : BaseBoss, IAngryBoss
     {
         [Header("Stats específicos de Ira")]
         [Tooltip("Altura del puño horizontal: distancia hacia abajo desde el jefe, en unidades de mundo")]
@@ -34,11 +34,22 @@ namespace Enemies
         public GameObject FireballPrefab => fireballPrefab;
         public GameObject PunchPrefab => punchPrefab;
 
+        // IAngryBoss (implementación explícita: los campos públicos de arriba siguen igual en el Inspector)
+        float IAngryBoss.DistanceToFloor => distanceToFloor;
+        float IAngryBoss.FireballSpeed => fireballSpeed;
+        float IAngryBoss.PunchYSpeed => punchYSpeed;
+        float IAngryBoss.PunchXSpeed => punchXSpeed;
+        int IAngryBoss.FireballCount => fireballCount;
+        float IAngryBoss.FireballInterval => fireballInterval;
+        float IAngryBoss.FireballMinAngle => fireballMinAngle;
+        float IAngryBoss.FireballMaxAngle => fireballMaxAngle;
+        Vector2 IAngryBoss.FireballSpawnOffset => fireballSpawnOffset;
+
         protected override void Awake()
         {
 
-            health = 3;
-            maxHealth = 3;
+            health = 35;
+            maxHealth = 35;
             damage = 1f;
             startCooldown = 2f;
             minCooldown = 1f;

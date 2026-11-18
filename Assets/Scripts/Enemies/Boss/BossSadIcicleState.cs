@@ -45,7 +45,7 @@ public class BossSadIcicleState : BaseBossAttackState
     /// </summary>
     private void SpawnIcicle()
     {
-        var sad = (BossSad)boss;
+        var sad = (ISadBoss)boss;
         if (sad.IciclePrefab == null) return;
 
         Vector3 spawnPos = new Vector3(spawnX, boss.transform.position.y + 4f, 0f);
@@ -57,7 +57,7 @@ public class BossSadIcicleState : BaseBossAttackState
         if (rb != null)
         {
             rb.gravityScale = 0f;
-            rb.linearVelocity = new Vector2(0f, -sad.icicleSpeed);
+            rb.linearVelocity = new Vector2(0f, -sad.IcicleSpeed);
         }
 
         SetupTimedCleanup(icicle, 2f);

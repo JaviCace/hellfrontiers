@@ -15,6 +15,8 @@ namespace Level
         [SerializeField] private BoxCollider2D zoneCollider;
         [SerializeField] private List<Door> doors = new List<Door>();
         [SerializeField] private BaseBoss boss;
+        [Tooltip("Sala de cámara fija que se activa con el jefe (opcional)")]
+        [SerializeField] private GodRoom godRoom;
 
         private void Awake()
         {
@@ -44,6 +46,9 @@ namespace Level
             if (boss == null || PlayerDataManager.IsBossDefeated(boss.bossName)) return;
 
             boss.PlayIntro();
+
+            // la cámara se queda fija en la sala hasta que el jefe muera
+            if (godRoom != null) godRoom.Activate(boss);
 
             foreach (var door in doors)
             {

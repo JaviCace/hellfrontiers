@@ -42,10 +42,10 @@ public class BossSadRadialState : BaseBossAttackState
     /// </summary>
     private void SpawnRadialIcicles(int count)
     {
-        var sad = (BossSad)boss;
+        var sad = (ISadBoss)boss;
         if (sad.IciclePrefab == null) return;
 
-        float speed = sad.radialSpeed;
+        float speed = sad.RadialSpeed;
         float angleStep = Mathf.PI * 2f / count;
 
         for (int i = 0; i < count; i++)

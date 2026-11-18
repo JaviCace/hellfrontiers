@@ -7,7 +7,7 @@ namespace Enemies
 /// <summary>
 /// Jefe de la emoción Tristeza.
 /// </summary>
-public class BossSad : BaseBoss
+public class BossSad : BaseBoss, ISadBoss
 {
     [Header("Stats específicos de Tristeza")]
     public float distanceToFloor = 250f;
@@ -21,10 +21,16 @@ public class BossSad : BaseBoss
     public GameObject IciclePrefab => iciclePrefab;
     public GameObject WaterBallPrefab => waterBallPrefab;
 
+    // ISadBoss (implementación explícita: los campos públicos de arriba siguen igual en el Inspector)
+    float ISadBoss.DistanceToFloor => distanceToFloor;
+    float ISadBoss.IcicleSpeed => icicleSpeed;
+    float ISadBoss.WaterBallSpeed => waterBallSpeed;
+    float ISadBoss.RadialSpeed => radialSpeed;
+
     protected override void Awake()
     {
-        health = 3;
-        maxHealth = 3;
+        health =40;
+        maxHealth = 40;
         damage = 1f;
         startCooldown = 2f;
         minCooldown = 2f;

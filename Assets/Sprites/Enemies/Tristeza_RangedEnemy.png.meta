@@ -1,0 +1,3733 @@
+fileFormatVersion: 2
+guid: 56906b890f7ae614aaa2488e55d06f3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4199934990251533938
+    second: Tristeza_RangedEnemy_0
+  - first:
+      213: 5050836894357732161
+    second: Tristeza_RangedEnemy_1
+  - first:
+      213: 8504275378136561131
+    second: Tristeza_RangedEnemy_2
+  - first:
+      213: -2409758592058793095
+    second: Tristeza_RangedEnemy_3
+  - first:
+      213: 4590776692625556985
+    second: Tristeza_RangedEnemy_4
+  - first:
+      213: 6545549601716837800
+    second: Tristeza_RangedEnemy_5
+  - first:
+      213: 1743247773930940477
+    second: Tristeza_RangedEnemy_6
+  - first:
+      213: -4603667829311297686
+    second: Tristeza_RangedEnemy_7
+  - first:
+      213: -5600732334053060486
+    second: Tristeza_RangedEnemy_8
+  - first:
+      213: 4581622973693168326
+    second: Tristeza_RangedEnemy_9
+  - first:
+      213: -6315792348812370403
+    second: Tristeza_RangedEnemy_10
+  - first:
+      213: -8785661303578518108
+    second: Tristeza_RangedEnemy_11
+  - first:
+      213: -5960598451044857687
+    second: Tristeza_RangedEnemy_12
+  - first:
+      213: 4461237034980474622
+    second: Tristeza_RangedEnemy_13
+  - first:
+      213: -5750718331764548272
+    second: Tristeza_RangedEnemy_14
+  - first:
+      213: 3453664088856227783
+    second: Tristeza_RangedEnemy_15
+  - first:
+      213: 6294515837667156781
+    second: Tristeza_RangedEnemy_16
+  - first:
+      213: 3480216579716213587
+    second: Tristeza_RangedEnemy_17
+  - first:
+      213: 8979035003568443506
+    second: Tristeza_RangedEnemy_18
+  - first:
+      213: 1251401128846597618
+    second: Tristeza_RangedEnemy_19
+  - first:
+      213: -942100252609469051
+    second: Tristeza_RangedEnemy_20
+  - first:
+      213: 5429073319753662774
+    second: Tristeza_RangedEnemy_21
+  - first:
+      213: 4621224219974898371
+    second: Tristeza_RangedEnemy_22
+  - first:
+      213: -6524614042685038289
+    second: Tristeza_RangedEnemy_23
+  - first:
+      213: 4566173912775332271
+    second: Tristeza_RangedEnemy_24
+  - first:
+      213: 2557559534646034380
+    second: Tristeza_RangedEnemy_25
+  - first:
+      213: 8309745494554903193
+    second: Tristeza_RangedEnemy_26
+  - first:
+      213: 5048334787317015268
+    second: Tristeza_RangedEnemy_27
+  - first:
+      213: 5415901079635597461
+    second: Tristeza_RangedEnemy_28
+  - first:
+      213: 3225968056730596503
+    second: Tristeza_RangedEnemy_29
+  - first:
+      213: -4102825618937383870
+    second: Tristeza_RangedEnemy_30
+  - first:
+      213: -1639838542295095265
+    second: Tristeza_RangedEnemy_31
+  - first:
+      213: 5970262887926663180
+    second: Tristeza_RangedEnemy_32
+  - first:
+      213: 1337045485320124988
+    second: Tristeza_RangedEnemy_33
+  - first:
+      213: -5678165665877558829
+    second: Tristeza_RangedEnemy_34
+  - first:
+      213: -3803516335755108946
+    second: Tristeza_RangedEnemy_35
+  - first:
+      213: -8678488998302754211
+    second: Tristeza_RangedEnemy_36
+  - first:
+      213: 5792683107336955739
+    second: Tristeza_RangedEnemy_37
+  - first:
+      213: -3541450839624553603
+    second: Tristeza_RangedEnemy_38
+  - first:
+      213: 6611082775296391239
+    second: Tristeza_RangedEnemy_39
+  - first:
+      213: 297369114486560462
+    second: Tristeza_RangedEnemy_40
+  - first:
+      213: -4836938180295869723
+    second: Tristeza_RangedEnemy_41
+  - first:
+      213: -5218414541167862494
+    second: Tristeza_RangedEnemy_42
+  - first:
+      213: -7650522759259696927
+    second: Tristeza_RangedEnemy_43
+  - first:
+      213: -6521226826223366321
+    second: Tristeza_RangedEnemy_44
+  - first:
+      213: 171149126316727351
+    second: Tristeza_RangedEnemy_45
+  - first:
+      213: 5040287819459218196
+    second: Tristeza_RangedEnemy_46
+  - first:
+      213: -644347830631209279
+    second: Tristeza_RangedEnemy_47
+  - first:
+      213: 2570881741110754214
+    second: Tristeza_RangedEnemy_48
+  - first:
+      213: 657995972770713918
+    second: Tristeza_RangedEnemy_49
+  - first:
+      213: -1171417370717823105
+    second: Tristeza_RangedEnemy_50
+  - first:
+      213: -4697469235839512324
+    second: Tristeza_RangedEnemy_51
+  - first:
+      213: 7807054242951435112
+    second: Tristeza_RangedEnemy_52
+  - first:
+      213: 2641172861755299312
+    second: Tristeza_RangedEnemy_53
+  - first:
+      213: -6389744195829342545
+    second: Tristeza_RangedEnemy_54
+  - first:
+      213: 5119206415424755782
+    second: Tristeza_RangedEnemy_55
+  - first:
+      213: 1017121676257633160
+    second: Tristeza_RangedEnemy_56
+  - first:
+      213: 1064788815372996703
+    second: Tristeza_RangedEnemy_57
+  - first:
+      213: -6458332303250089326
+    second: Tristeza_RangedEnemy_58
+  - first:
+      213: 7714074116335538768
+    second: Tristeza_RangedEnemy_59
+  - first:
+      213: 8179968184103199663
+    second: Tristeza_RangedEnemy_60
+  - first:
+      213: -4859789460515322721
+    second: Tristeza_RangedEnemy_61
+  - first:
+      213: -3645956065031635242
+    second: Tristeza_RangedEnemy_62
+  - first:
+      213: 8383480443427012488
+    second: Tristeza_RangedEnemy_63
+  - first:
+      213: 3904551542675959102
+    second: Tristeza_RangedEnemy_64
+  - first:
+      213: 7887759130332983361
+    second: Tristeza_RangedEnemy_65
+  - first:
+      213: 2189946434158618186
+    second: Tristeza_RangedEnemy_66
+  - first:
+      213: 2613967391865354146
+    second: Tristeza_RangedEnemy_67
+  - first:
+      213: -1994329439167996837
+    second: Tristeza_RangedEnemy_68
+  - first:
+      213: 4313406123973835381
+    second: Tristeza_RangedEnemy_69
+  - first:
+      213: 5454772781712720639
+    second: Tristeza_RangedEnemy_70
+  - first:
+      213: -9107868300360366329
+    second: Tristeza_RangedEnemy_71
+  - first:
+      213: -2695998782722522030
+    second: Tristeza_RangedEnemy_72
+  - first:
+      213: 3333601888829970001
+    second: Tristeza_RangedEnemy_73
+  - first:
+      213: -1910769858179595041
+    second: Tristeza_RangedEnemy_74
+  - first:
+      213: -3152650903918781319
+    second: Tristeza_RangedEnemy_75
+  - first:
+      213: 2277130160921354589
+    second: Tristeza_RangedEnemy_76
+  - first:
+      213: 249511542424480242
+    second: Tristeza_RangedEnemy_77
+  - first:
+      213: -4907000653795965189
+    second: Tristeza_RangedEnemy_78
+  - first:
+      213: -8659200577276002362
+    second: Tristeza_RangedEnemy_79
+  - first:
+      213: -4332673557206460289
+    second: Tristeza_RangedEnemy_80
+  - first:
+      213: -1407413323100147225
+    second: Tristeza_RangedEnemy_81
+  - first:
+      213: -5832054740666135655
+    second: Tristeza_RangedEnemy_82
+  - first:
+      213: -6494152244697792989
+    second: Tristeza_RangedEnemy_83
+  - first:
+      213: 3580461576448463419
+    second: Tristeza_RangedEnemy_84
+  - first:
+      213: 8222432942705213813
+    second: Tristeza_RangedEnemy_85
+  - first:
+      213: 3313551849502217893
+    second: Tristeza_RangedEnemy_86
+  - first:
+      213: -3264380029217623763
+    second: Tristeza_RangedEnemy_87
+  - first:
+      213: -900130934463680431
+    second: Tristeza_RangedEnemy_88
+  - first:
+      213: -1890041341438682343
+    second: Tristeza_RangedEnemy_89
+  - first:
+      213: -2849704600787986825
+    second: Tristeza_RangedEnemy_90
+  - first:
+      213: -8707825105967473363
+    second: Tristeza_RangedEnemy_91
+  - first:
+      213: -8938362621432718535
+    second: Tristeza_RangedEnemy_92
+  - first:
+      213: 7866386288950009476
+    second: Tristeza_RangedEnemy_93
+  - first:
+      213: -8632856046947911589
+    second: Tristeza_RangedEnemy_94
+  - first:
+      213: 545622472397593394
+    second: Tristeza_RangedEnemy_95
+  - first:
+      213: 7845119783256308923
+    second: Tristeza_RangedEnemy_96
+  - first:
+      213: -2424789203379820559
+    second: Tristeza_RangedEnemy_97
+  - first:
+      213: -4107981612712695734
+    second: Tristeza_RangedEnemy_98
+  - first:
+      213: -1159036428984078263
+    second: Tristeza_RangedEnemy_99
+  - first:
+      213: -1350050748393173112
+    second: Tristeza_RangedEnemy_100
+  - first:
+      213: 6054058764952020444
+    second: Tristeza_RangedEnemy_101
+  - first:
+      213: 1652899967074008734
+    second: Tristeza_RangedEnemy_102
+  - first:
+      213: 2607862558182804668
+    second: Tristeza_RangedEnemy_103
+  - first:
+      213: 9180204451304291748
+    second: Tristeza_RangedEnemy_104
+  - first:
+      213: 6677783286377096685
+    second: Tristeza_RangedEnemy_105
+  - first:
+      213: -7276030897117352471
+    second: Tristeza_RangedEnemy_106
+  - first:
+      213: 5248428422884367255
+    second: Tristeza_RangedEnemy_107
+  - first:
+      213: -1792079895926531461
+    second: Tristeza_RangedEnemy_108
+  - first:
+      213: 7286421479142472262
+    second: Tristeza_RangedEnemy_109
+  - first:
+      213: -2819696217497233324
+    second: Tristeza_RangedEnemy_110
+  - first:
+      213: 934066457768345994
+    second: Tristeza_RangedEnemy_111
+  - first:
+      213: 2685373513768077918
+    second: Tristeza_RangedEnemy_112
+  - first:
+      213: -1898643226997499511
+    second: Tristeza_RangedEnemy_113
+  - first:
+      213: -7197684927621083862
+    second: Tristeza_RangedEnemy_114
+  - first:
+      213: -3503265425445203126
+    second: Tristeza_RangedEnemy_115
+  - first:
+      213: 1754144539412025409
+    second: Tristeza_RangedEnemy_116
+  - first:
+      213: 8831652911081708921
+    second: Tristeza_RangedEnemy_117
+  - first:
+      213: -7699063445333276091
+    second: Tristeza_RangedEnemy_118
+  - first:
+      213: -4079732758532731189
+    second: Tristeza_RangedEnemy_119
+  - first:
+      213: 696780979245815408
+    second: Tristeza_RangedEnemy_120
+  - first:
+      213: 2504358718980971518
+    second: Tristeza_RangedEnemy_121
+  - first:
+      213: -7580640522170744430
+    second: Tristeza_RangedEnemy_122
+  - first:
+      213: -6427980011476035632
+    second: Tristeza_RangedEnemy_123
+  - first:
+      213: 1768395966738757940
+    second: Tristeza_RangedEnemy_124
+  - first:
+      213: -7105350859176438466
+    second: Tristeza_RangedEnemy_125
+  - first:
+      213: -2763785085539693542
+    second: Tristeza_RangedEnemy_126
+  - first:
+      213: 8913768910831011824
+    second: Tristeza_RangedEnemy_127
+  - first:
+      213: 1544054015193956704
+    second: Tristeza_RangedEnemy_128
+  - first:
+      213: -3761377911926161436
+    second: Tristeza_RangedEnemy_129
+  - first:
+      213: -8417900589371001267
+    second: Tristeza_RangedEnemy_130
+  - first:
+      213: -8354555246296257184
+    second: Tristeza_RangedEnemy_131
+  - first:
+      213: -7838070289676834871
+    second: Tristeza_RangedEnemy_132
+  - first:
+      213: -1217886527869782477
+    second: Tristeza_RangedEnemy_133
+  - first:
+      213: 8066821570647240713
+    second: Tristeza_RangedEnemy_134
+  - first:
+      213: -2951283446565873477
+    second: Tristeza_RangedEnemy_135
+  - first:
+      213: 2458472377334294504
+    second: Tristeza_RangedEnemy_136
+  - first:
+      213: -2682530236495681793
+    second: Tristeza_RangedEnemy_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 806
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89d25ae065d6b5c0800000000000000
+      internalID: -4199934990251533938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 780
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b31aa156d281640800000000000000
+      internalID: 5050836894357732161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 807
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be53ee91661450670800000000000000
+      internalID: 8504275378136561131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 781
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973e3e5f351de8ed0800000000000000
+      internalID: -2409758592058793095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 810
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c6173417b5bf30800000000000000
+      internalID: 4590776692625556985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 783
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad1806dea676da50800000000000000
+      internalID: 6545549601716837800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 812
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38e4a04d92413810800000000000000
+      internalID: 1743247773930940477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 784
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67a102208c7c10c0800000000000000
+      internalID: -4603667829311297686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 813
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7019babd933642b0800000000000000
+      internalID: -5600732334053060486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 784
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca00c1f1d1359f30800000000000000
+      internalID: 4581622973693168326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 813
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e98ed325cc958a0800000000000000
+      internalID: -6315792348812370403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 783
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad9e43c79f031680800000000000000
+      internalID: -8785661303578518108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 811
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a84ab41a43b74da0800000000000000
+      internalID: -5960598451044857687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 781
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efef3d8527f79ed30800000000000000
+      internalID: 4461237034980474622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 809
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dd8d755285130b0800000000000000
+      internalID: -5750718331764548272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 780
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf6cc5c031edef20800000000000000
+      internalID: 3453664088856227783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 652
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23a839fdcc9a5750800000000000000
+      internalID: 6294515837667156781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 651
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35be86f4a863c4030800000000000000
+      internalID: 3480216579716213587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 650
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270de7543c0fb9c70800000000000000
+      internalID: 8979035003568443506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 648
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd9c6c42bedd5110800000000000000
+      internalID: 1251401128846597618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 649
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585286ccfccfce2f0800000000000000
+      internalID: -942100252609469051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 650
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631c77b7b61f75b40800000000000000
+      internalID: 5429073319753662774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 652
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2190b91f2e12040800000000000000
+      internalID: 4621224219974898371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 653
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21ab39d81ae375a0800000000000000
+      internalID: -6524614042685038289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 550
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa111a52bfe4e5f30800000000000000
+      internalID: 4566173912775332271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 524
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf7d72a8d64e7320800000000000000
+      internalID: 2557559534646034380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 551
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99209d81085225370800000000000000
+      internalID: 8309745494554903193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 525
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e22749edb94f0640800000000000000
+      internalID: 5048334787317015268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59895565655292b40800000000000000
+      internalID: 5415901079635597461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 526
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7943f2e0bd0f4cc20800000000000000
+      internalID: 3225968056730596503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 553
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2447dd756d5df07c0800000000000000
+      internalID: -4102825618937383870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 527
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18a185b88f1e39e0800000000000000
+      internalID: -1639838542295095265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_32
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 554
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08019af672aad250800000000000000
+      internalID: 5970262887926663180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_33
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 528
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3abb01f8c32e8210800000000000000
+      internalID: 1337045485320124988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_34
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 555
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d97c8d396a1331b0800000000000000
+      internalID: -5678165665877558829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 529
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaddbe56b02373bc0800000000000000
+      internalID: -3803516335755108946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_36
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 556
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a57059c30df8780800000000000000
+      internalID: -8678488998302754211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 530
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a93d589eb36050800000000000000
+      internalID: 5792683107336955739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_38
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 557
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b6baa893d3adec0800000000000000
+      internalID: -3541450839624553603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_39
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 530
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748be32d1c84fbb50800000000000000
+      internalID: 6611082775296391239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_40
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 556
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6d42452a7702400800000000000000
+      internalID: 297369114486560462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_41
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 529
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eab0fa2a5ebfdcb0800000000000000
+      internalID: -4836938180295869723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_42
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 555
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dd4f68f977497b0800000000000000
+      internalID: -5218414541167862494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_43
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 528
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0d84ca512e3d590800000000000000
+      internalID: -7650522759259696927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_44
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 553
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f4533a0c2ff75a0800000000000000
+      internalID: -6521226826223366321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_45
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 527
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c1abd393b006200800000000000000
+      internalID: 171149126316727351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_46
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 526
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b48943113b2f540800000000000000
+      internalID: 5040287819459218196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_47
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6ee6bdf01de07f0800000000000000
+      internalID: -644347830631209279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_48
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 551
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb17a825b9da320800000000000000
+      internalID: 2570881741110754214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_49
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 525
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31d2acd9dba12900800000000000000
+      internalID: 657995972770713918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_50
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 422
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f54a69b1a4ebfe0800000000000000
+      internalID: -1171417370717823105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 396
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0d5764e9c3fceb0800000000000000
+      internalID: -4697469235839512324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_52
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863935d687a385c60800000000000000
+      internalID: 7807054242951435112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 397
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5935769b457a420800000000000000
+      internalID: 2641172861755299312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_54
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae5af912811357a0800000000000000
+      internalID: -6389744195829342545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 398
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6481b43bc131b0740800000000000000
+      internalID: 5119206415424755782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_56
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883afae86ca8d1e00800000000000000
+      internalID: 1017121676257633160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 399
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50dd1d39c3e6ce00800000000000000
+      internalID: 1064788815372996703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_58
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a1957ecf46f56a0800000000000000
+      internalID: -6458332303250089326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 400
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0521733b985ed0b60800000000000000
+      internalID: 7714074116335538768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_60
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 427
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3e77f59b5158170800000000000000
+      internalID: 8179968184103199663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_61
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 401
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f940cc2eb3f8e8cb0800000000000000
+      internalID: -4859789460515322721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_62
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 428
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6debb15a646f66dc0800000000000000
+      internalID: -3645956065031635242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_63
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 402
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb6e3bb0b185470800000000000000
+      internalID: 8383480443427012488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_64
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 429
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d676cd0f0cf2630800000000000000
+      internalID: 3904551542675959102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_65
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 402
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140775d4323f67d60800000000000000
+      internalID: 7887759130332983361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_66
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 428
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a466825dda0446e10800000000000000
+      internalID: 2189946434158618186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_67
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 401
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7b6965e7da64420800000000000000
+      internalID: 2613967391865354146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_68
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 427
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c994501f7b254e0800000000000000
+      internalID: -1994329439167996837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_69
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 400
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a747f240c4cdb30800000000000000
+      internalID: 4313406123973835381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_70
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2c470c1fe33bb40800000000000000
+      internalID: 5454772781712720639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_71
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 399
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707caff490a5a9180800000000000000
+      internalID: -9107868300360366329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_72
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25440f02463e59ad0800000000000000
+      internalID: -2695998782722522030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_73
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 398
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15618467145534e20800000000000000
+      internalID: 3333601888829970001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_74
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd48eab00f49b75e0800000000000000
+      internalID: -1910769858179595041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_75
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 397
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c5b13d4b88f34d0800000000000000
+      internalID: -3152650903918781319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 268
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51ab0d01ddf99f10800000000000000
+      internalID: 2277130160921354589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 269
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f922950d61767300800000000000000
+      internalID: 249511542424480242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_78
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 270
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6c1ed57e4d6ebb0800000000000000
+      internalID: -4907000653795965189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 271
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf3b9014f654d780800000000000000
+      internalID: -8659200577276002362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_80
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 273
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f781bfeea504fd3c0800000000000000
+      internalID: -4332673557206460289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_81
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 274
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1b6781a0dd77ce0800000000000000
+      internalID: -1407413323100147225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_82
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b46f7ec11601fa0800000000000000
+      internalID: -5832054740666135655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_83
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 275
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e7b71e0f220e5a0800000000000000
+      internalID: -6494152244697792989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_84
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 308
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32552c65da50b130800000000000000
+      internalID: 3580461576448463419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_85
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 274
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5710a637233fb1270800000000000000
+      internalID: 8222432942705213813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_86
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 274
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a61b66e9d91cfd20800000000000000
+      internalID: 3313551849502217893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_87
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 273
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21ba9aa8a792b2d0800000000000000
+      internalID: -3264380029217623763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_88
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 272
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150b3f72fa71283f0800000000000000
+      internalID: -900130934463680431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_89
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 271
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b9eb0f96935c5e0800000000000000
+      internalID: -1890041341438682343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_90
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 270
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7765c3393c0d378d0800000000000000
+      internalID: -2849704600787986825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_91
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 269
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d9490c337972780800000000000000
+      internalID: -8707825105967473363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_92
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 267
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b9fd3ad8e84f380800000000000000
+      internalID: -8938362621432718535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_93
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 266
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e5ed2e6a40b2d60800000000000000
+      internalID: 7866386288950009476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_94
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 267
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5836940a2fe13880800000000000000
+      internalID: -8632856046947911589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_95
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 294
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b9ab07fb0729700800000000000000
+      internalID: 545622472397593394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_96
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 293
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcb16da0e67fdc60800000000000000
+      internalID: 7845119783256308923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_97
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7e75d011b695ed0800000000000000
+      internalID: -2424789203379820559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486c6efc748df6c0800000000000000
+      internalID: -4107981612712695734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_99
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 169
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940baa832864aefe0800000000000000
+      internalID: -1159036428984078263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_100
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 144
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f46494ff7a34de0800000000000000
+      internalID: -1350050748393173112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_101
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 169
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd52e46fe56540450800000000000000
+      internalID: 6054058764952020444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_102
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 144
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e73ba33c740f610800000000000000
+      internalID: 1652899967074008734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_103
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc078bfd2df03420800000000000000
+      internalID: 2607862558182804668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_104
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 143
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adb3754f43a66f70800000000000000
+      internalID: 9180204451304291748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_105
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de52c8fb4804cac50800000000000000
+      internalID: 6677783286377096685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_106
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 140
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edad8af278560b90800000000000000
+      internalID: -7276030897117352471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b161fd7d926d840800000000000000
+      internalID: 5248428422884367255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a1e2a54d04127e0800000000000000
+      internalID: -1792079895926531461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a301ceab19e1560800000000000000
+      internalID: 7286421479142472262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_110
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 41
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4589095ca3d6ed8d0800000000000000
+      internalID: -2819696217497233324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_111
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 16
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81c3e39e7876fc00800000000000000
+      internalID: 934066457768345994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_112
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a8369abfc544520800000000000000
+      internalID: 2685373513768077918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_113
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 16
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989dc936b0aa6a5e0800000000000000
+      internalID: -1898643226997499511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_114
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d46fb71bfac1c90800000000000000
+      internalID: -7197684927621083862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 18
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a435e6a18a6e16fc0800000000000000
+      internalID: -3503265425445203126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_116
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 44
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140585c2a29f75810800000000000000
+      internalID: 1754144539412025409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_117
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 25
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dd190d785509a70800000000000000
+      internalID: 8831652911081708921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_118
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 59
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a07bd769e672590800000000000000
+      internalID: -7699063445333276091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_119
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 23
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcec125eba0e167c0800000000000000
+      internalID: -4079732758532731189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_120
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 45
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0761232eb967ba900800000000000000
+      internalID: 696780979245815408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_121
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb530b7cf441c220800000000000000
+      internalID: 2504358718980971518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_122
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 48
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291c41aeb972cc690800000000000000
+      internalID: -7580640522170744430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_123
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 18
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7d8a88c3a3bc6a0800000000000000
+      internalID: -6427980011476035632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_124
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43972bb23ca9a8810800000000000000
+      internalID: 1768395966738757940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_125
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3595421a09b46d90800000000000000
+      internalID: -7105350859176438466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_126
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c42ec9b1015a9d0800000000000000
+      internalID: -2763785085539693542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_127
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7c004e89114bb70800000000000000
+      internalID: 8913768910831011824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_128
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 47
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c6a132f49d6510800000000000000
+      internalID: 1544054015193956704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_129
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 20
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff3adb7b6eccbc0800000000000000
+      internalID: -3761377911926161436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_130
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d467dff830c9d2b80800000000000000
+      internalID: -8417900589371001267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_131
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 15
+        width: 217
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06da2209448ae0c80800000000000000
+      internalID: -8354555246296257184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_132
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7e4437994993390800000000000000
+      internalID: -7838070289676834871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_133
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3367691d7a2391fe0800000000000000
+      internalID: -1217886527869782477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_134
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 18
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90033e88a7b13ff60800000000000000
+      internalID: 8066821570647240713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_135
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 16
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb853f7875fea07d0800000000000000
+      internalID: -2951283446565873477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_136
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 40
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7ee150a9f3e1220800000000000000
+      internalID: 2458472377334294504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_RangedEnemy_137
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 19
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff62e6a66fcb5cad0800000000000000
+      internalID: -2682530236495681793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tristeza_RangedEnemy_0: -4199934990251533938
+      Tristeza_RangedEnemy_1: 5050836894357732161
+      Tristeza_RangedEnemy_10: -6315792348812370403
+      Tristeza_RangedEnemy_100: -1350050748393173112
+      Tristeza_RangedEnemy_101: 6054058764952020444
+      Tristeza_RangedEnemy_102: 1652899967074008734
+      Tristeza_RangedEnemy_103: 2607862558182804668
+      Tristeza_RangedEnemy_104: 9180204451304291748
+      Tristeza_RangedEnemy_105: 6677783286377096685
+      Tristeza_RangedEnemy_106: -7276030897117352471
+      Tristeza_RangedEnemy_107: 5248428422884367255
+      Tristeza_RangedEnemy_108: -1792079895926531461
+      Tristeza_RangedEnemy_109: 7286421479142472262
+      Tristeza_RangedEnemy_11: -8785661303578518108
+      Tristeza_RangedEnemy_110: -2819696217497233324
+      Tristeza_RangedEnemy_111: 934066457768345994
+      Tristeza_RangedEnemy_112: 2685373513768077918
+      Tristeza_RangedEnemy_113: -1898643226997499511
+      Tristeza_RangedEnemy_114: -7197684927621083862
+      Tristeza_RangedEnemy_115: -3503265425445203126
+      Tristeza_RangedEnemy_116: 1754144539412025409
+      Tristeza_RangedEnemy_117: 8831652911081708921
+      Tristeza_RangedEnemy_118: -7699063445333276091
+      Tristeza_RangedEnemy_119: -4079732758532731189
+      Tristeza_RangedEnemy_12: -5960598451044857687
+      Tristeza_RangedEnemy_120: 696780979245815408
+      Tristeza_RangedEnemy_121: 2504358718980971518
+      Tristeza_RangedEnemy_122: -7580640522170744430
+      Tristeza_RangedEnemy_123: -6427980011476035632
+      Tristeza_RangedEnemy_124: 1768395966738757940
+      Tristeza_RangedEnemy_125: -7105350859176438466
+      Tristeza_RangedEnemy_126: -2763785085539693542
+      Tristeza_RangedEnemy_127: 8913768910831011824
+      Tristeza_RangedEnemy_128: 1544054015193956704
+      Tristeza_RangedEnemy_129: -3761377911926161436
+      Tristeza_RangedEnemy_13: 4461237034980474622
+      Tristeza_RangedEnemy_130: -8417900589371001267
+      Tristeza_RangedEnemy_131: -8354555246296257184
+      Tristeza_RangedEnemy_132: -7838070289676834871
+      Tristeza_RangedEnemy_133: -1217886527869782477
+      Tristeza_RangedEnemy_134: 8066821570647240713
+      Tristeza_RangedEnemy_135: -2951283446565873477
+      Tristeza_RangedEnemy_136: 2458472377334294504
+      Tristeza_RangedEnemy_137: -2682530236495681793
+      Tristeza_RangedEnemy_14: -5750718331764548272
+      Tristeza_RangedEnemy_15: 3453664088856227783
+      Tristeza_RangedEnemy_16: 6294515837667156781
+      Tristeza_RangedEnemy_17: 3480216579716213587
+      Tristeza_RangedEnemy_18: 8979035003568443506
+      Tristeza_RangedEnemy_19: 1251401128846597618
+      Tristeza_RangedEnemy_2: 8504275378136561131
+      Tristeza_RangedEnemy_20: -942100252609469051
+      Tristeza_RangedEnemy_21: 5429073319753662774
+      Tristeza_RangedEnemy_22: 4621224219974898371
+      Tristeza_RangedEnemy_23: -6524614042685038289
+      Tristeza_RangedEnemy_24: 4566173912775332271
+      Tristeza_RangedEnemy_25: 2557559534646034380
+      Tristeza_RangedEnemy_26: 8309745494554903193
+      Tristeza_RangedEnemy_27: 5048334787317015268
+      Tristeza_RangedEnemy_28: 5415901079635597461
+      Tristeza_RangedEnemy_29: 3225968056730596503
+      Tristeza_RangedEnemy_3: -2409758592058793095
+      Tristeza_RangedEnemy_30: -4102825618937383870
+      Tristeza_RangedEnemy_31: -1639838542295095265
+      Tristeza_RangedEnemy_32: 5970262887926663180
+      Tristeza_RangedEnemy_33: 1337045485320124988
+      Tristeza_RangedEnemy_34: -5678165665877558829
+      Tristeza_RangedEnemy_35: -3803516335755108946
+      Tristeza_RangedEnemy_36: -8678488998302754211
+      Tristeza_RangedEnemy_37: 5792683107336955739
+      Tristeza_RangedEnemy_38: -3541450839624553603
+      Tristeza_RangedEnemy_39: 6611082775296391239
+      Tristeza_RangedEnemy_4: 4590776692625556985
+      Tristeza_RangedEnemy_40: 297369114486560462
+      Tristeza_RangedEnemy_41: -4836938180295869723
+      Tristeza_RangedEnemy_42: -5218414541167862494
+      Tristeza_RangedEnemy_43: -7650522759259696927
+      Tristeza_RangedEnemy_44: -6521226826223366321
+      Tristeza_RangedEnemy_45: 171149126316727351
+      Tristeza_RangedEnemy_46: 5040287819459218196
+      Tristeza_RangedEnemy_47: -644347830631209279
+      Tristeza_RangedEnemy_48: 2570881741110754214
+      Tristeza_RangedEnemy_49: 657995972770713918
+      Tristeza_RangedEnemy_5: 6545549601716837800
+      Tristeza_RangedEnemy_50: -1171417370717823105
+      Tristeza_RangedEnemy_51: -4697469235839512324
+      Tristeza_RangedEnemy_52: 7807054242951435112
+      Tristeza_RangedEnemy_53: 2641172861755299312
+      Tristeza_RangedEnemy_54: -6389744195829342545
+      Tristeza_RangedEnemy_55: 5119206415424755782
+      Tristeza_RangedEnemy_56: 1017121676257633160
+      Tristeza_RangedEnemy_57: 1064788815372996703
+      Tristeza_RangedEnemy_58: -6458332303250089326
+      Tristeza_RangedEnemy_59: 7714074116335538768
+      Tristeza_RangedEnemy_6: 1743247773930940477
+      Tristeza_RangedEnemy_60: 8179968184103199663
+      Tristeza_RangedEnemy_61: -4859789460515322721
+      Tristeza_RangedEnemy_62: -3645956065031635242
+      Tristeza_RangedEnemy_63: 8383480443427012488
+      Tristeza_RangedEnemy_64: 3904551542675959102
+      Tristeza_RangedEnemy_65: 7887759130332983361
+      Tristeza_RangedEnemy_66: 2189946434158618186
+      Tristeza_RangedEnemy_67: 2613967391865354146
+      Tristeza_RangedEnemy_68: -1994329439167996837
+      Tristeza_RangedEnemy_69: 4313406123973835381
+      Tristeza_RangedEnemy_7: -4603667829311297686
+      Tristeza_RangedEnemy_70: 5454772781712720639
+      Tristeza_RangedEnemy_71: -9107868300360366329
+      Tristeza_RangedEnemy_72: -2695998782722522030
+      Tristeza_RangedEnemy_73: 3333601888829970001
+      Tristeza_RangedEnemy_74: -1910769858179595041
+      Tristeza_RangedEnemy_75: -3152650903918781319
+      Tristeza_RangedEnemy_76: 2277130160921354589
+      Tristeza_RangedEnemy_77: 249511542424480242
+      Tristeza_RangedEnemy_78: -4907000653795965189
+      Tristeza_RangedEnemy_79: -8659200577276002362
+      Tristeza_RangedEnemy_8: -5600732334053060486
+      Tristeza_RangedEnemy_80: -4332673557206460289
+      Tristeza_RangedEnemy_81: -1407413323100147225
+      Tristeza_RangedEnemy_82: -5832054740666135655
+      Tristeza_RangedEnemy_83: -6494152244697792989
+      Tristeza_RangedEnemy_84: 3580461576448463419
+      Tristeza_RangedEnemy_85: 8222432942705213813
+      Tristeza_RangedEnemy_86: 3313551849502217893
+      Tristeza_RangedEnemy_87: -3264380029217623763
+      Tristeza_RangedEnemy_88: -900130934463680431
+      Tristeza_RangedEnemy_89: -1890041341438682343
+      Tristeza_RangedEnemy_9: 4581622973693168326
+      Tristeza_RangedEnemy_90: -2849704600787986825
+      Tristeza_RangedEnemy_91: -8707825105967473363
+      Tristeza_RangedEnemy_92: -8938362621432718535
+      Tristeza_RangedEnemy_93: 7866386288950009476
+      Tristeza_RangedEnemy_94: -8632856046947911589
+      Tristeza_RangedEnemy_95: 545622472397593394
+      Tristeza_RangedEnemy_96: 7845119783256308923
+      Tristeza_RangedEnemy_97: -2424789203379820559
+      Tristeza_RangedEnemy_98: -4107981612712695734
+      Tristeza_RangedEnemy_99: -1159036428984078263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

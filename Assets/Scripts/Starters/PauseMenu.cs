@@ -1,5 +1,6 @@
-﻿using System.Collections;
+using System.Collections;
 using UnityEngine;
+using Managers;
 
 namespace Starters
 {
@@ -10,7 +11,7 @@ namespace Starters
 
         void OnEnable() { LifecycleGuard.PausedChanged += Show; Show(LifecycleGuard.IsPaused); }
         void OnDisable() { LifecycleGuard.PausedChanged -= Show; }
-        void Show(bool paused) => panel.SetActive(paused);
+        void Show(bool paused) => panel.SetActive(paused && !GameFlow.MenuOpen);
 
         void Update()
         {

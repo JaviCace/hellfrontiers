@@ -30,8 +30,8 @@ Transform:
   m_GameObject: {fileID: 2497539822761649095}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -16.69, y: -1.7, z: 0}
-  m_LocalScale: {x: 0.9489909, y: 0.9489909, z: 0.9489909}
+  m_LocalPosition: {x: -16.694, y: -1.7031, z: 0}
+  m_LocalScale: {x: 3.9090834, y: 3.9090834, z: 3.9090834}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -85,7 +85,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 65375eeb917969c45bdd75f682d81696, type: 3}
+  m_Sprite: {fileID: -4321489441059004637, guid: 82c3ff652ac1f06498d9d8c28afa169d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -145,20 +145,20 @@ MonoBehaviour:
   projectilePrefab: {fileID: 7388582646083534083, guid: 8c7695600a523b549858f2bc58f4f5e5, type: 3}
   colliderWidthDivider: 1
   colliderHeightDivider: 1
-  health: 6
+  health: 2
   speed: 1
   verticalSpeed: 0
-  attackRange: 30
+  attackRange: 5
   damage: 1
   collisionDamage: 1
-  startAttackTime: 1
+  startAttackTime: 3
   attackDuration: 0.1
   distanceBtwEnemies: 20
   dead: 0
   isAttacking: 0
   applyKnockbackToPlayer: 1
   inmune: 0
-  detectionRange: 30
+  detectionRange: 7
   canChase: 1
   chaseHeightTolerance: 2
   maxVelocityX: 1000
@@ -222,15 +222,15 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.0032340586, y: 0.0010778345}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.64, y: 0.64}
+    oldSize: {x: 0.25, y: 0.23}
     newSize: {x: 0.64, y: 0.64}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.64, y: 0.64}
+  m_Size: {x: 0.24982691, y: 0.24120471}
   m_EdgeRadius: 0

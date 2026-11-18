@@ -114,6 +114,23 @@ Hell Frontiers is a pixel-art action-platformer for Android, built with Unity 6.
 
 * A good base class pays off immediately. Once `MeleeEnemy` and `BaseOrb` worked, producing the other enemies and orbs was fast, because they only had to differ in their specific behaviour.
 
+## Week 5 — Asset creation and bug fixing
+
+**What I did**
+
+* Created most of the remaining game assets that were still missing after the first four weeks.
+* Remade the **Sadness boss sprite**.
+* Kept testing the game and fixing bugs as they appeared.
+
+## Week 6 — Victory and defeat menus, retry button and final bug fixing
+
+**What I did**
+
+* Created most of the assets still needed to finish the game.
+* Built the **victory menu** and the **defeat menu**.
+* Added the **retry button**, so the player can restart after losing without closing the app.
+* Continued fixing bugs found while testing on the device.
+
 ## AI usage
 
 I used AI tools (Claude) during the project, mainly in week 4. I am responsible for the code I submit and I should be able to explain it. These are the ways I used it:

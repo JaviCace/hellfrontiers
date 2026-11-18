@@ -41,7 +41,7 @@ namespace Enemies
         public float health = 6f;                                  // vida
         public float speed = 6f;                                   // velocidad movimiento
         public float verticalSpeed = 0f;                            // velocidad vertical
-        public float attackRange = 80f;                             // rango ataque melee
+        public float attackRange = 1f;                             // rango ataque melee
         public float damage = 1f;                                   // daño base
         public float collisionDamage = 1f;                          // daño por colisión
         public float startAttackTime = 1f;                          // tiempo hasta atacar (segundos)
@@ -57,7 +57,7 @@ namespace Enemies
         // ---------------- Detección del jugador ----------------
         [Header("Detección del jugador")]
         [Tooltip("Distancia (en unidades de mundo) a la que el enemigo se entera de que el jugador está cerca. Fuera de ella ni se mueve ni ataca")]
-        public float detectionRange = 30f;
+        public float detectionRange = 4f;
         [Tooltip("Si es false el enemigo nunca se mueve hacia el jugador (solo ataca cuando entra en su rango)")]
         public bool canChase = true;
         [Tooltip("Enemigos terrestres: solo persiguen si la diferencia de altura (Y) con el jugador es menor que esto")]

@@ -1,0 +1,1523 @@
+fileFormatVersion: 2
+guid: 82c3ff652ac1f06498d9d8c28afa169d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4321489441059004637
+    second: Tristeza_FlyingEnemy_0
+  - first:
+      213: -3798339974488958325
+    second: Tristeza_FlyingEnemy_1
+  - first:
+      213: -1059430283844956135
+    second: Tristeza_FlyingEnemy_2
+  - first:
+      213: 608057799965913944
+    second: Tristeza_FlyingEnemy_3
+  - first:
+      213: 3103494912830020919
+    second: Tristeza_FlyingEnemy_4
+  - first:
+      213: -5294386429308947003
+    second: Tristeza_FlyingEnemy_5
+  - first:
+      213: -8280070056401711009
+    second: Tristeza_FlyingEnemy_6
+  - first:
+      213: -1386754819206632655
+    second: Tristeza_FlyingEnemy_7
+  - first:
+      213: 4848730055425251524
+    second: Tristeza_FlyingEnemy_8
+  - first:
+      213: 8052383291556297298
+    second: Tristeza_FlyingEnemy_9
+  - first:
+      213: 2226874296897523872
+    second: Tristeza_FlyingEnemy_10
+  - first:
+      213: 3929582423990055931
+    second: Tristeza_FlyingEnemy_11
+  - first:
+      213: 3380516073628572702
+    second: Tristeza_FlyingEnemy_12
+  - first:
+      213: 3061441379536575485
+    second: Tristeza_FlyingEnemy_13
+  - first:
+      213: -4870394068223929080
+    second: Tristeza_FlyingEnemy_14
+  - first:
+      213: -1423200225423051641
+    second: Tristeza_FlyingEnemy_15
+  - first:
+      213: -470386156770077957
+    second: Tristeza_FlyingEnemy_16
+  - first:
+      213: -9043053688620638905
+    second: Tristeza_FlyingEnemy_17
+  - first:
+      213: -2518719877488720454
+    second: Tristeza_FlyingEnemy_18
+  - first:
+      213: 2199649788390219505
+    second: Tristeza_FlyingEnemy_19
+  - first:
+      213: -4285361009336326101
+    second: Tristeza_FlyingEnemy_20
+  - first:
+      213: -8025069620088737730
+    second: Tristeza_FlyingEnemy_21
+  - first:
+      213: 5930071035464363464
+    second: Tristeza_FlyingEnemy_22
+  - first:
+      213: 1517987473686565718
+    second: Tristeza_FlyingEnemy_23
+  - first:
+      213: -1138553297324802922
+    second: Tristeza_FlyingEnemy_24
+  - first:
+      213: 3035761678964166189
+    second: Tristeza_FlyingEnemy_25
+  - first:
+      213: -8734616822134945721
+    second: Tristeza_FlyingEnemy_26
+  - first:
+      213: 3904215671323047209
+    second: Tristeza_FlyingEnemy_27
+  - first:
+      213: 8749749290760148150
+    second: Tristeza_FlyingEnemy_28
+  - first:
+      213: -5929659381125317145
+    second: Tristeza_FlyingEnemy_29
+  - first:
+      213: -1341473077123451400
+    second: Tristeza_FlyingEnemy_30
+  - first:
+      213: -2274131990335534598
+    second: Tristeza_FlyingEnemy_31
+  - first:
+      213: 2926266002063950599
+    second: Tristeza_FlyingEnemy_32
+  - first:
+      213: -1955532133997136598
+    second: Tristeza_FlyingEnemy_33
+  - first:
+      213: -7755283795414720795
+    second: Tristeza_FlyingEnemy_34
+  - first:
+      213: -5909709295344637983
+    second: Tristeza_FlyingEnemy_35
+  - first:
+      213: 5123130076256003976
+    second: Tristeza_FlyingEnemy_36
+  - first:
+      213: -4801457978241794794
+    second: Tristeza_FlyingEnemy_37
+  - first:
+      213: -7490569824315788009
+    second: Tristeza_FlyingEnemy_38
+  - first:
+      213: 6547019992703325681
+    second: Tristeza_FlyingEnemy_39
+  - first:
+      213: 15523048581039832
+    second: Tristeza_FlyingEnemy_40
+  - first:
+      213: 7075511659887381275
+    second: Tristeza_FlyingEnemy_41
+  - first:
+      213: 3166005328202531950
+    second: Tristeza_FlyingEnemy_42
+  - first:
+      213: -4715281492573814705
+    second: Tristeza_FlyingEnemy_43
+  - first:
+      213: -2363451544739695560
+    second: Tristeza_FlyingEnemy_44
+  - first:
+      213: 6471168849362706375
+    second: Tristeza_FlyingEnemy_45
+  - first:
+      213: 5323876083944286478
+    second: Tristeza_FlyingEnemy_46
+  - first:
+      213: 1747175604851508936
+    second: Tristeza_FlyingEnemy_47
+  - first:
+      213: 6881177060737540099
+    second: Tristeza_FlyingEnemy_48
+  - first:
+      213: 6977902275132732021
+    second: Tristeza_FlyingEnemy_49
+  - first:
+      213: -1663140221336754838
+    second: Tristeza_FlyingEnemy_50
+  - first:
+      213: 5623103398998157035
+    second: Tristeza_FlyingEnemy_51
+  - first:
+      213: 4160643658208030765
+    second: Tristeza_FlyingEnemy_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 340
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f9315ef3cf604c0800000000000000
+      internalID: -4321489441059004637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 339
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a5b6ceae5994bc0800000000000000
+      internalID: -3798339974488958325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 341
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910512b15c52c41f0800000000000000
+      internalID: -1059430283844956135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 341
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853bfd1f851407800800000000000000
+      internalID: 608057799965913944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 280
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d17712e24d11b20800000000000000
+      internalID: 3103494912830020919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 279
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c53469e79f8686b0800000000000000
+      internalID: -5294386429308947003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 277
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50d3d44728471d80800000000000000
+      internalID: -8280070056401711009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 281
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba0aad6d141cce0800000000000000
+      internalID: -1386754819206632655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 212
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8d165bb462a4340800000000000000
+      internalID: 4848730055425251524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 211
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af088b0ffcfbf60800000000000000
+      internalID: 8052383291556297298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 210
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a05602ef5277ee10800000000000000
+      internalID: 2226874296897523872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 202
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3bb81156ea88630800000000000000
+      internalID: 3929582423990055931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 215
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c112e45710aee20800000000000000
+      internalID: 3380516073628572702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 197
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb95f7e6bc6c7a20800000000000000
+      internalID: 3061441379536575485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 196
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805d75f3662e86cb0800000000000000
+      internalID: -4870394068223929080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 216
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78437677fe6cf3ce0800000000000000
+      internalID: -1423200225423051641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 196
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2557a584ad879f0800000000000000
+      internalID: -470386156770077957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 196
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d1bf4159e908280800000000000000
+      internalID: -9043053688620638905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 215
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5c19dbd95bb0dd0800000000000000
+      internalID: -2518719877488720454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 196
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe134b04d9b68e10800000000000000
+      internalID: 2199649788390219505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 198
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28e238edd65784c0800000000000000
+      internalID: -4285361009336326101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 148
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30f4dcf2b931a090800000000000000
+      internalID: -8025069620088737730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 148
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdafa91038db4250800000000000000
+      internalID: 5930071035464363464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 149
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653949e8099f01510800000000000000
+      internalID: 1517987473686565718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 148
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cfa13fecb0330f0800000000000000
+      internalID: -1138553297324802922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 84
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e0761b921312a20800000000000000
+      internalID: 3035761678964166189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 83
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748ce7b374868c680800000000000000
+      internalID: -8734616822134945721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 78
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92539b7b77f8e2630800000000000000
+      internalID: 3904215671323047209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 68
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b41c7d2f9a5d6970800000000000000
+      internalID: 8749749290760148150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 93
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed76f4a53e95bda0800000000000000
+      internalID: -5929659381125317145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 99
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f57e420851226de0800000000000000
+      internalID: -1341473077123451400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 81
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9c2bfe009a070e0800000000000000
+      internalID: -2274131990335534598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 68
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7030353cc6f2c9820800000000000000
+      internalID: 2926266002063950599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 68
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a253d3e82ed8cd4e0800000000000000
+      internalID: -1955532133997136598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 68
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee56f13a72bf5490800000000000000
+      internalID: -7755283795414720795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_35
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 68
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7a825f4be7cfda0800000000000000
+      internalID: -5909709295344637983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887eb5d29a3091740800000000000000
+      internalID: 5123130076256003976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dbee2786bcd5db0800000000000000
+      internalID: -4801457978241794794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 12
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715b5687e662c0890800000000000000
+      internalID: -7490569824315788009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_39
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5567aeeffabda50800000000000000
+      internalID: 6547019992703325681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_40
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 20
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d601846126273000800000000000000
+      internalID: 15523048581039832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bc8b3fd54413260800000000000000
+      internalID: 7075511659887381275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_42
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 11
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6481806219efeb20800000000000000
+      internalID: 3166005328202531950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_43
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f400a231774ff8eb0800000000000000
+      internalID: -4715281492573814705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_44
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 29
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83431f79755533fd0800000000000000
+      internalID: -2363451544739695560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_45
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 10
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf56d368c53ec950800000000000000
+      internalID: 6471168849362706375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 30
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0962bb571532e940800000000000000
+      internalID: 5323876083944286478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_47
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c60767a4f63f3810800000000000000
+      internalID: 1747175604851508936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_48
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300e3d5241ade7f50800000000000000
+      internalID: 6881177060737540099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 4
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5723da2162d76d060800000000000000
+      internalID: 6977902275132732021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 4
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65ee87c7c65be8e0800000000000000
+      internalID: -1663140221336754838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 4
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6a398bfb6490e40800000000000000
+      internalID: 5623103398998157035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristeza_FlyingEnemy_52
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 7
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20b874fc539db930800000000000000
+      internalID: 4160643658208030765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tristeza_FlyingEnemy_0: -4321489441059004637
+      Tristeza_FlyingEnemy_1: -3798339974488958325
+      Tristeza_FlyingEnemy_10: 2226874296897523872
+      Tristeza_FlyingEnemy_11: 3929582423990055931
+      Tristeza_FlyingEnemy_12: 3380516073628572702
+      Tristeza_FlyingEnemy_13: 3061441379536575485
+      Tristeza_FlyingEnemy_14: -4870394068223929080
+      Tristeza_FlyingEnemy_15: -1423200225423051641
+      Tristeza_FlyingEnemy_16: -470386156770077957
+      Tristeza_FlyingEnemy_17: -9043053688620638905
+      Tristeza_FlyingEnemy_18: -2518719877488720454
+      Tristeza_FlyingEnemy_19: 2199649788390219505
+      Tristeza_FlyingEnemy_2: -1059430283844956135
+      Tristeza_FlyingEnemy_20: -4285361009336326101
+      Tristeza_FlyingEnemy_21: -8025069620088737730
+      Tristeza_FlyingEnemy_22: 5930071035464363464
+      Tristeza_FlyingEnemy_23: 1517987473686565718
+      Tristeza_FlyingEnemy_24: -1138553297324802922
+      Tristeza_FlyingEnemy_25: 3035761678964166189
+      Tristeza_FlyingEnemy_26: -8734616822134945721
+      Tristeza_FlyingEnemy_27: 3904215671323047209
+      Tristeza_FlyingEnemy_28: 8749749290760148150
+      Tristeza_FlyingEnemy_29: -5929659381125317145
+      Tristeza_FlyingEnemy_3: 608057799965913944
+      Tristeza_FlyingEnemy_30: -1341473077123451400
+      Tristeza_FlyingEnemy_31: -2274131990335534598
+      Tristeza_FlyingEnemy_32: 2926266002063950599
+      Tristeza_FlyingEnemy_33: -1955532133997136598
+      Tristeza_FlyingEnemy_34: -7755283795414720795
+      Tristeza_FlyingEnemy_35: -5909709295344637983
+      Tristeza_FlyingEnemy_36: 5123130076256003976
+      Tristeza_FlyingEnemy_37: -4801457978241794794
+      Tristeza_FlyingEnemy_38: -7490569824315788009
+      Tristeza_FlyingEnemy_39: 6547019992703325681
+      Tristeza_FlyingEnemy_4: 3103494912830020919
+      Tristeza_FlyingEnemy_40: 15523048581039832
+      Tristeza_FlyingEnemy_41: 7075511659887381275
+      Tristeza_FlyingEnemy_42: 3166005328202531950
+      Tristeza_FlyingEnemy_43: -4715281492573814705
+      Tristeza_FlyingEnemy_44: -2363451544739695560
+      Tristeza_FlyingEnemy_45: 6471168849362706375
+      Tristeza_FlyingEnemy_46: 5323876083944286478
+      Tristeza_FlyingEnemy_47: 1747175604851508936
+      Tristeza_FlyingEnemy_48: 6881177060737540099
+      Tristeza_FlyingEnemy_49: 6977902275132732021
+      Tristeza_FlyingEnemy_5: -5294386429308947003
+      Tristeza_FlyingEnemy_50: -1663140221336754838
+      Tristeza_FlyingEnemy_51: 5623103398998157035
+      Tristeza_FlyingEnemy_52: 4160643658208030765
+      Tristeza_FlyingEnemy_6: -8280070056401711009
+      Tristeza_FlyingEnemy_7: -1386754819206632655
+      Tristeza_FlyingEnemy_8: 4848730055425251524
+      Tristeza_FlyingEnemy_9: 8052383291556297298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

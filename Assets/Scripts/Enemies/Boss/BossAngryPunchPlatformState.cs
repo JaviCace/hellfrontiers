@@ -42,7 +42,7 @@ public class BossAngryPunchPlatformState : BaseBossAttackState
 
     private void SpawnPunch()
     {
-        var angry = (BossAngry)boss;
+        var angry = (IAngryBoss)boss;
         if (angry.PunchPrefab == null) return;
 
         Vector3 spawnPos = new Vector3(spawnX, boss.transform.position.y + 3f, 0f);
@@ -58,7 +58,7 @@ public class BossAngryPunchPlatformState : BaseBossAttackState
         if (rb != null)
         {
             rb.gravityScale = 0f;
-            rb.linearVelocity = new Vector2(0f, -angry.punchYSpeed);
+            rb.linearVelocity = new Vector2(0f, -angry.PunchYSpeed);
         }
 
         SetupTimedCleanup(punch, 3f);

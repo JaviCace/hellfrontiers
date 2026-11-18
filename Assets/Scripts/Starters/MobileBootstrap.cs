@@ -13,6 +13,7 @@ namespace Starters
             QualitySettings.vSyncCount = 0;
             // Keep the screen on while the game is in the foreground.
             Screen.sleepTimeout = SleepTimeout.NeverSleep;
+            Debug.Log($"[build] v{Application.version} {Application.buildGUID.Substring(0, 8)}");
 
             Debug.Log($"[Boot] {SystemInfo.deviceModel} | " +
                       $"{SystemInfo.operatingSystem} | " +

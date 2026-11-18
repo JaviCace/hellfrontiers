@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using State;
 using Enemies;
+using Managers;
 
 namespace player
 {
@@ -46,6 +47,7 @@ namespace player
         public float attackDuration = 0.2f;                        // duración hitbox (segundos)
         public bool isAttacking = false;                           // está atacando
         [SerializeField] private LayerMask enemyLayer;             // layer de los enemigos para el overlap
+        [SerializeField] private LayerMask buttonLayer;            // layer de los botones que se activan atacándolos
         [SerializeField] private GameObject meleeSpritePrefab;     // sprite normal de la animación de ataque
         [SerializeField] private GameObject meleeAmpliadoSpritePrefab; // sprite ampliado de la animación de ataque
 
@@ -100,12 +102,12 @@ namespace player
         public float speedMultiplier = 1f;                           // multiplicador velocidad
         public float bloodStealAmount = 0f;                          // robo de vida
         public float attackRangeMultiplier = 1f;                     // modificador rango melee
+        public bool canRangeAttack = false;                          // puede atacar a distancia (RangedOrb)
         public Color orbTint = Color.white;                          // color original
 
         // ---------------- Referencias externas ----------------
         [Header("Referencias externas")]
         [SerializeField] private CameraFollow cameraFollow;          // referencia a la cámara que sigue al jugador
-        [SerializeField] private string gameOverSceneName = "GameOver";
         [SerializeField] private Sprite deadSprite;                  // textura de "defeat_player"
 
         // ---------------- Input (un botón por acción, ver métodos OnXxx más abajo) ----------------
@@ -140,7 +142,7 @@ namespace player
             rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
             invulnerableTime = initialInvulnerableTime;
-
+               // Print the version and the first 8 characters of the build ID
             // estados
             stateMachine = new StateMachine<Player>(this, "player");
             stateMachine
@@ -155,6 +157,13 @@ namespace player
         private void Start()
         {
             stateMachine.SetState("idle");
+
+            // "Continuar": aplica la partida guardada (posición, orbes...)
+            if (GameFlow.ContinueRequested)
+            {
+                GameFlow.ContinueRequested = false;
+                PlayerDataManager.RestorePlayer(this);
+            }
 
             if (shieldAura != null) shieldAura.SetActive(false);
         }
@@ -336,6 +345,16 @@ namespace player
             }
         }
 
+        /// <summary>
+        /// tiñe al jugador con el color de un orbe (equivalente a player.setTint(orbTint) de Phaser).
+        /// Se guarda en orbTint para que se restaure tras recibir daño.
+        /// </summary>
+        public void SetTint(Color c)
+        {
+            orbTint = c;
+            if (spriteRenderer != null) spriteRenderer.color = c;
+        }
+
         // ==================== Daño / muerte ====================
 
         /// <summary>
@@ -416,6 +435,24 @@ namespace player
                     return;
                 }
             }
+        }
+
+        /// <summary>
+        /// fija los dos orbes equipados a la vez (menú del checkpoint / cargar partida).
+        /// Quita el efecto de los anteriores y aplica solo el del orbe activo.
+        /// </summary>
+        public void SetEquippedOrbs(Orbs.BaseOrb first, Orbs.BaseOrb second, int active = -1)
+        {
+            foreach (var eq in equippedOrbs) eq?.OnDesactivate(this);
+
+            equippedOrbs[0] = first;
+            equippedOrbs[1] = second;
+
+            if (active >= 0 && active < equippedOrbs.Length) activeOrbIndex = active;
+            if (equippedOrbs[activeOrbIndex] == null)
+                activeOrbIndex = equippedOrbs[0] != null ? 0 : (equippedOrbs[1] != null ? 1 : 0);
+
+            equippedOrbs[activeOrbIndex]?.OnActivate(this);
         }
 
         /// <summary>
@@ -522,14 +559,13 @@ namespace player
 
             yield return new WaitForSeconds(1.5f);
 
-            if (!string.IsNullOrEmpty(gameOverSceneName))
-            {
-                SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene());
-                SceneManager.LoadScene(gameOverSceneName, LoadSceneMode.Additive);
-            }
 
             SetVelocity(0, 0);
             stateMachine.SetState("dead");
+
+            // menú de muerte (Reiniciar / Main menu)
+            if (DeathMenu.Instance != null) DeathMenu.Instance.Show();
+            else Debug.LogWarning("[Player] No hay DeathMenu en la escena");
         }
 
         private IEnumerator MoveOverTime(Vector3 from, Vector3 to, float duration)
@@ -573,7 +609,7 @@ namespace player
 
             // detectar colisiones con enemigos (única excepción a "nunca GetComponent":
             // los enemigos son objetos dinámicos, no se pueden fijar por Inspector)
-            Collider2D[] hits = Physics2D.OverlapBoxAll(hitboxCenter, new Vector2(h, w), 0f, enemyLayer);
+            Collider2D[] hits = Physics2D.OverlapBoxAll(hitboxCenter, new Vector2(h, w), 0f, enemyLayer | buttonLayer);
             HashSet<BaseEnemy> hitEnemies = new HashSet<BaseEnemy>();
             HashSet<BaseBoss> hitBosses = new HashSet<BaseBoss>();
 
@@ -584,6 +620,14 @@ namespace player
 
             foreach (var hit in hits)
             {
+                // botones (puertas de jefe): se activan al atacarlos
+                var levelButton = hit.GetComponentInParent<Level.Button>();
+                if (levelButton != null)
+                {
+                    levelButton.Press();
+                    continue;
+                }
+
                 // jefes: BaseBoss no hereda de BaseEnemy, así que se comprueban aparte
                 // (GetComponentInParent por si el collider está en un hijo del jefe)
                 var boss = hit.GetComponentInParent<BaseBoss>();

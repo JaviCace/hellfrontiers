@@ -98,7 +98,7 @@ public class BossSadWaterBallState : BaseBossAttackState
     /// </summary>
     private void SpawnWaterBall()
     {
-        var sad = (BossSad)boss;
+        var sad = (ISadBoss)boss;
         if (sad.WaterBallPrefab == null) return;
 
         Vector3 spawnPos = boss.transform.position + new Vector3(0f, 0.5f, 0f); // "-50" en Phaser (arriba del boss)
@@ -108,7 +108,7 @@ public class BossSadWaterBallState : BaseBossAttackState
         waterBallData = waterBall.GetComponent<WaterBallData>();
         if (waterBallData == null) waterBallData = waterBall.AddComponent<WaterBallData>();
         waterBallData.following = false;
-        waterBallData.speed = sad.waterBallSpeed;
+        waterBallData.speed = sad.WaterBallSpeed;
         waterBallData.health = waterBallHealth;
         waterBallData.maxHealth = waterBallHealth;
 
@@ -419,7 +419,7 @@ public class BossSadWaterBallState : BaseBossAttackState
     {
         if (damageApplied) return;
 
-        var sad = (BossSad)boss;
+        var sad = (ISadBoss)boss;
         GameObject explosionSprite;
         if (sad.WaterBallPrefab != null)
             explosionSprite = Object.Instantiate(sad.WaterBallPrefab, explosionPos, Quaternion.identity);

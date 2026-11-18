@@ -32,8 +32,8 @@ public class BossAngryPunchState : BaseBossAttackState
     public override void Enter(BaseBoss context, object data = null)
     {
         // calcular posición Y fija antes de llamar al padre
-        var angry = (BossAngry)context;
-        fixedSpawnY = context.transform.position.y - angry.distanceToFloor; // distanceToFloor ya está en unidades de mundo
+        var angry = (IAngryBoss)context;
+        fixedSpawnY = context.transform.position.y - angry.DistanceToFloor; // distanceToFloor ya está en unidades de mundo
 
         base.Enter(context, data);
     }
@@ -200,7 +200,7 @@ public class BossAngryPunchState : BaseBossAttackState
     /// </summary>
     private void SpawnPunch()
     {
-        var angry = (BossAngry)boss;
+        var angry = (IAngryBoss)boss;
         if (angry.PunchPrefab == null) return;
 
         Camera cam = Camera.main;
@@ -223,7 +223,7 @@ public class BossAngryPunchState : BaseBossAttackState
         if (rb != null)
         {
             rb.gravityScale = 0f;
-            float xSpeed = goesLeft ? -angry.punchXSpeed : angry.punchXSpeed;
+            float xSpeed = goesLeft ? -angry.PunchXSpeed : angry.PunchXSpeed;
             rb.linearVelocity = new Vector2(xSpeed, 0f);
         }
 

@@ -28,7 +28,23 @@ public class Button : MonoBehaviour
     [SerializeField] private Door door;                     // puerta asociada (referencia informativa, igual que en el original)
     [SerializeField] private MonoBehaviour showIndicatorBehaviour; // debe implementar IButtonIndicator
 
+    private bool pressed;
+
     private IButtonIndicator show => showIndicatorBehaviour as IButtonIndicator;
+
+    private void Start()
+    {
+        // al cargar una partida, los botones ya activados aparecen pulsados
+        var status = PlayerDataManager.data.buttonStatus;
+        bool on = (color == ButtonColor.Rojo && status.red)
+               || (color == ButtonColor.Azul && status.blue)
+               || (color == ButtonColor.Verde && status.green);
+        if (!on) return;
+
+        pressed = true;
+        ChangeTexture();
+        if (show != null) { show.IsOn = true; show.ChangeTexture(); }
+    }
 
     public void SetDoor(Door d) => door = d;
     public void SetShow(MonoBehaviour indicator) => showIndicatorBehaviour = indicator;
@@ -46,15 +62,16 @@ public class Button : MonoBehaviour
     /// </summary>
     public void Press()
     {
+        if (pressed) return;   // ya activado
+        pressed = true;
+
         if (show != null) show.IsOn = true;
 
-        if (door == null)
-        {
-            Debug.LogWarning("Button: No tiene puerta asignada.");
-            return;
-        }
+        // la puerta es solo informativa: aunque no esté asignada, el botón se activa igualmente
+        if (door == null) Debug.LogWarning($"Button '{name}': no tiene puerta asignada (se activa igualmente).");
 
         ChangeTexture();
+        Debug.Log($"Button '{name}' activado: {color}");
 
         switch (color)
         {

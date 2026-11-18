@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3618970087567081409}
   - component: {fileID: 3995823126707303066}
   - component: {fileID: 9205166098846168266}
-  - component: {fileID: 3156314195664790984}
+  - component: {fileID: 8395577463055188133}
   m_Layer: 0
   m_Name: SadnessOrb
   m_TagString: Untagged
@@ -140,7 +140,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.62, y: 1.86}
   m_EdgeRadius: 0
---- !u!114 &3156314195664790984
+--- !u!114 &8395577463055188133
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -149,9 +149,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 5099603084854846751}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f0f2ec7c8bdb1c44a01ecb29cdf6d46, type: 3}
+  m_Script: {fileID: 11500000, guid: 1102f084503e9fb43b3348075516b377, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Orbs.ShieldOrb
-  orbName: SadnessOrb
-  orbDescription: SadnessOrb
-  spriteRenderer: {fileID: 3995823126707303066}
+  m_EditorClassIdentifier: Assembly-CSharp::Orbs.MoveSpeedOrb
+  orbName: Orb
+  orbDescription: 
+  spriteRenderer: {fileID: 0}

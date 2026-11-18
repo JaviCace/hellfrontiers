@@ -7,7 +7,7 @@ namespace Enemies
 /// <summary>
 /// Estado de ataque de bolas de fuego para el jefe Ira (bullet hell).
 /// Dispara, una tras otra, el número de bolas y con el intervalo que se eligen en el
-/// Inspector del jefe (BossAngry). Cada bola sale con un ángulo aleatorio dentro del
+/// Inspector del jefe (IAngryBoss). Cada bola sale con un ángulo aleatorio dentro del
 /// rango elegido, siempre hacia abajo.
 /// </summary>
 public class BossAngryFireBallState : BaseBossAttackState
@@ -30,7 +30,7 @@ public class BossAngryFireBallState : BaseBossAttackState
         firedCount = 0;
 
         // la primera bola sale al instante
-        timeSinceLastSpawn = ((BossAngry)context).fireballInterval;
+        timeSinceLastSpawn = ((IAngryBoss)context).FireballInterval;
     }
 
     public override void Execute(BaseBoss context, float time, float delta)
@@ -42,11 +42,11 @@ public class BossAngryFireBallState : BaseBossAttackState
         {
             case "attack":
             {
-                var angry = (BossAngry)boss;
-                float interval = Mathf.Max(0.01f, angry.fireballInterval);
+                var angry = (IAngryBoss)boss;
+                float interval = Mathf.Max(0.01f, angry.FireballInterval);
 
                 // dispara todas las bolas que toquen en este frame (mantiene el ritmo aunque bajen los fps)
-                while (firedCount < angry.fireballCount && timeSinceLastSpawn >= interval)
+                while (firedCount < angry.FireballCount && timeSinceLastSpawn >= interval)
                 {
                     FireBullet(angry);
                     firedCount++;
@@ -54,7 +54,7 @@ public class BossAngryFireBallState : BaseBossAttackState
                 }
 
                 // el ataque termina cuando se han disparado todas
-                if (firedCount >= angry.fireballCount) StartCooldownPhase();
+                if (firedCount >= angry.FireballCount) StartCooldownPhase();
                 break;
             }
 
@@ -76,20 +76,20 @@ public class BossAngryFireBallState : BaseBossAttackState
     /// <summary>
     /// dispara una bola de fuego desde el jefe con un ángulo aleatorio hacia abajo
     /// </summary>
-    private void FireBullet(BossAngry angry)
+    private void FireBullet(IAngryBoss angry)
     {
         if (angry.FireballPrefab == null) return;
 
         // ángulo "de pantalla": 0° = derecha, 90° = recto hacia abajo, 180° = izquierda.
         // Se limita a 1°-179° para que la bola vaya siempre hacia abajo.
-        float a = Mathf.Clamp(angry.fireballMinAngle, 1f, 179f);
-        float b = Mathf.Clamp(angry.fireballMaxAngle, 1f, 179f);
+        float a = Mathf.Clamp(angry.FireballMinAngle, 1f, 179f);
+        float b = Mathf.Clamp(angry.FireballMaxAngle, 1f, 179f);
         float angle = Random.Range(Mathf.Min(a, b), Mathf.Max(a, b));
 
         float rad = angle * Mathf.Deg2Rad;
         Vector2 direction = new Vector2(Mathf.Cos(rad), -Mathf.Sin(rad));
 
-        Vector3 position = boss.transform.position + (Vector3)angry.fireballSpawnOffset;
+        Vector3 position = boss.transform.position + (Vector3)angry.FireballSpawnOffset;
         var fireball = Object.Instantiate(angry.FireballPrefab, position, Quaternion.identity);
         boss.AddAttack(fireball);
 
@@ -97,7 +97,7 @@ public class BossAngryFireBallState : BaseBossAttackState
         if (rb != null)
         {
             rb.gravityScale = 0f;
-            rb.linearVelocity = direction * angry.fireballSpeed;
+            rb.linearVelocity = direction * angry.FireballSpeed;
         }
 
         SetupTimedCleanup(fireball, GetLifetime(angry));
@@ -106,14 +106,14 @@ public class BossAngryFireBallState : BaseBossAttackState
     /// <summary>
     /// tiempo de vida suficiente para que la bola cruce toda la pantalla antes de destruirse
     /// </summary>
-    private float GetLifetime(BossAngry angry)
+    private float GetLifetime(IAngryBoss angry)
     {
         Camera cam = Camera.main;
         float halfHeight = cam != null ? cam.orthographicSize : 6f;
         float halfWidth = cam != null ? halfHeight * cam.aspect : 10f;
 
         float screenDiagonal = 2f * Mathf.Sqrt(halfWidth * halfWidth + halfHeight * halfHeight);
-        return Mathf.Max(3f, (screenDiagonal + 2f) / Mathf.Max(0.1f, angry.fireballSpeed));
+        return Mathf.Max(3f, (screenDiagonal + 2f) / Mathf.Max(0.1f, angry.FireballSpeed));
     }
 }
 }

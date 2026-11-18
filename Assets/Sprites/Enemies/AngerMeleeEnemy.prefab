@@ -191,14 +191,14 @@ MonoBehaviour:
   projectilePrefab: {fileID: 0}
   colliderWidthDivider: 1
   colliderHeightDivider: 1
-  health: 3
+  health: 6
   speed: 1
   verticalSpeed: 0
-  attackRange: 1.5
+  attackRange: 0.2
   damage: 1
   collisionDamage: 1
   startAttackTime: 1
-  attackDuration: 0.1
+  attackDuration: 0.3
   distanceBtwEnemies: 20
   dead: 0
   isAttacking: 0

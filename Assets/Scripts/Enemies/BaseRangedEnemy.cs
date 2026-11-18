@@ -6,14 +6,14 @@ namespace Enemies
 /// </summary>
 public class BaseRangedEnemy : BaseEnemy
 {
-    public float attackTime = 1f;                           // tiempo de carga del ataque (segundos)
+    public float attackTime = 2f;                           // tiempo de carga del ataque (segundos)
 
     protected override void Awake()
     {
         base.Awake();                                       // inicializar BaseEnemy
 
         // ataque
-        attackRange = 20f;                                  // rango ataque a distancia
+        attackRange = 2f;                                  // rango ataque a distancia
         canChase = false;                                   // no se mueve, solo dispara
 
         // máquina de estados
